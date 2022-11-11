@@ -7,5 +7,4 @@ In this repository you can find the resources that the organizers of this datath
 - [Qualcomm Challenge](/qualcomm_challenge)
 - [Ageing challenge](/ageing_challenge)
 
-**Other**
-- [Example](/example)
+The directory [Example](/example) contains some resources to get you started!
