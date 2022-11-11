@@ -1,0 +1,637 @@
+{
+  "accrual_periodicity": "other",
+  "additional_limitations": "All numbers are estimates and subject to change as additional information becomes available.",
+  "citation": "California Department of Aging",
+  "contact_email": "webmaster@aging.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "In response to increased social isolation experienced by older adults and their families due to COVID-19, the California Department of Aging partnered with the Institute on Aging to expand services of the Friendship Line statewide. Friendship Line California is an accredited 24-hour toll-free hotline for older adults and adults with disabilities. The line is staffed by trained volunteers who specialize in having caring and friendly conversations.",
+  "geo_coverage": "",
+  "geographic_granularity": "county",
+  "keywords": [
+    "aging",
+    "coronavirus",
+    "covid-19",
+    "covid19",
+    "friendship line",
+    "older adults",
+    "social isolation"
+  ],
+  "limitations": "Limitations",
+  "name": "friendship-line-california-calls-in-response-to-covid-19",
+  "program_web_page": "https://www.ioaging.org/friendship-line-california",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "Friendship Line California is an accredited 24-hour toll-free hotline for older adults and adults with disabilities who may be experiencing thoughts of suicide, anxiety, or depression. The line is staffed by trained volunteers who specialize in offering a caring ear and having a friendly conversation with depressed older adults. This dataset shows incoming calls by county by day.",
+      "format": "CSV",
+      "name": "friendship-line-california-calls-in-response-to-covid-19",
+      "path": "friendship-line-california-calls-in-response-to-covid-19.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/15",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/16",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/17",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/18",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/19",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/20",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/21",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/22",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/23",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/24",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/25",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/26",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/27",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/28",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/29",
+            "type": "string"
+          },
+          {
+            "name": "2020/04/30",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/01",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/02",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/03",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/04",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/05",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/06",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/07",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/08",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/09",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/10",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/11",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/12",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/13",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/14",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/15",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/16",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/17",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/18",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/19",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/20",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/21",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/22",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/23",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/24",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/25",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/26",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/27",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/28",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/29",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/30",
+            "type": "string"
+          },
+          {
+            "name": "2020/05/31",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/01",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/02",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/03",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/04",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/05",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/06",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/07",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/08",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/09",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/10",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/11",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/12",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/13",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/14",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/15",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/16",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/17",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/18",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/19",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/20",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/21",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/22",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/23",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/24",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/25",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/26",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/27",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/28",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/29",
+            "type": "string"
+          },
+          {
+            "name": "2020/06/30",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/01",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/02",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/03",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/04",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/05",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/06",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/07",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/08",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/09",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/10",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/11",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/12",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/13",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/14",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/15",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/16",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/17",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/18",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/19",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/20",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/21",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/22",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/23",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/24",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/25",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/26",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/27",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/28",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/29",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/30",
+            "type": "string"
+          },
+          {
+            "name": "2020/07/31",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/01",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/02",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/03",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/04",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/05",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/06",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/07",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/08",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/09",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/10",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/11",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/12",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/13",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/14",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/15",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/16",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/17",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/18",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/19",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/20",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/21",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/22",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/23",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/24",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/25",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/26",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/27",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/28",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/29",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/30",
+            "type": "string"
+          },
+          {
+            "name": "2020/08/31",
+            "type": "string"
+          },
+          {
+            "name": "2020/09/01",
+            "type": "string"
+          },
+          {
+            "name": "2020/09/02",
+            "type": "string"
+          },
+          {
+            "name": "2020/09/03",
+            "type": "string"
+          },
+          {
+            "name": "2020/09/04",
+            "type": "string"
+          },
+          {
+            "name": "2020/09/05",
+            "type": "string"
+          },
+          {
+            "name": "2020/09/06",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d71df234-7ba1-42e7-98bc-160a55beb7d1/resource/7d7b56ef-591b-4c83-86e8-c18d52cbcb8b/download/friendship-line_incoming-calls_041520_090620.csv",
+          "title": "Friendship Line California Calls in Response to COVID-19"
+        }
+      ],
+      "title": "Friendship Line California Calls in Response to COVID-19"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Friendship Line California",
+      "web": "https://www.aging.ca.gov/Data_and_Reports/COVID-19_Data_Dashboard/"
+    }
+  ],
+  "temporal_coverage": "Daily from April 15 to September 6, 2020",
+  "title": "Friendship Line Services Provided to Older Adults in Response to COVID-19"
+}

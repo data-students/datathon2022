@@ -1,0 +1,743 @@
+Bibliography
+Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE),
+United States, 1999-2001
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 4248. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Ackerman, Michelle L.; Edwards, Jerri D.; Ross, Lesley A.; Ball, Karlene
+K.; Lunsman, Melissa, "Examination of cognitive and instrumental functional
+performance as indicators for driving cessation risk across 3 years."
+Gerontologist. Dec 2008, 48, (6), 802 - 810. DOI: 10.1093/geront/48.6.802
+
+2. Aiken Morgan, Adrienne T.; Marsiske, Michael; Dzierzewski, Joseph M.;
+Jones, Richard N.; Whitfield, Keith E.; Johnson, Kathy E.; Cresci, Mary K.,
+"Race-related cognitive test bias in the active study: A mimic model
+approach." Experimental Aging Research. Oct 2010, 36, (4), 426 - 452. DOI:
+10.1080/0361073X.2010.507427
+
+3. Alwerdt, Jessie; Edwards, Jerri D.; Athilingam, Ponrathi; O’Connor,
+Melissa L.; Valdes, Elise G., "Longitudinal differences in cognitive
+functioning among older adults with and without heart failure." Journal of
+Aging and Health. Dec 2013, 25, (8), 1358 - 1377. DOI:
+10.1177/0898264313505111
+
+4. Aust, Frederik; Edwards, Jerri D., "Incremental validity of Useful Field
+of View subtests for the prediction of instrumental activities of daily
+living." Journal of Clinical and Experimental Neuropsychology. 2016, 38,
+(5), 497 - 515. DOI: 10.1080/13803395.2015.1125453
+
+5. Ball, K.; Berch, D.B.; Helmers, K.F.; Jobe, J.B.; Leveck, M.D.;
+Marsiske, M.; Morris, J.N.; Rebok, G.W.; Smith, D.M.; Tennstedt, S.L.;
+Unverzagt, F.W.; Willis, S.L., "Effects of cognitive training interventions
+with older adults: A randomized controlled trial." JAMA, The Journal of the
+American Medical Association. Nov 13, 2002, 288, (18), 2271 - 2281. DOI:
+10.1001/jama.288.18.2271
+
+6. Ball, Karlene K.; Clay, Olivio J.; Edwards, Jerri D.; Fausto, Bernadette
+A.; Wheeler, Katie M.; Felix, Cynthia; Ross, Lesley A., "Indicators of
+crash risk in older adults: A longitudinal analysis from the ACTIVE Study."
+Journal of Aging and Health. In press 2021,. DOI: 10.1177/08982643211031346
+
+7. Ball, Karlene; Edwards, Jerri D.; Ross, Lesley A., "The impact of speed
+of processing training on cognitive and everyday functions." Journals of
+Gerontology, Series B: Psychological Sciences and Social Sciences. Jun
+2007, 62, (SI1), 19 - 31. DOI: 10.1093/geronb/62.special_issue_1.19
+
+8. Ball, Karlene; Edwards, Jerri D.; Ross, Lesley A.; McGwin, Gerald, Jr.,
+"Cognitive training decreases motor vehicle collision involvement of older
+drivers." Journal of the American Geriatrics Society. Nov 2010, 58, (11),
+2107 - 2113. DOI: 10.1111/j.1532-5415.2010.03138.x
+
+9. Boot, Walter R.; Blakely, Daniel P., "Mental and physical exercise as a
+means to reverse cognitive aging and enhance well-being." In Hartman-Stein,
+Daniel P.; LaRue, Asenath, Enhancing Cognitive Fitness in Adults: A Guide
+to the Use and Development of Community-Based Programs. 25 - 44, New York:
+Springer,2011. DOI: 10.1007/978-1-4419-0636-6_2
+
+10. Caskie, Grace I.L.; Willis, Sherry L., "Congruence of self-reported
+medications with pharmacy prescription records in low-income older adults."
+Gerontologist. Apr 2004, 44, (2), 176 - 185. DOI: 10.1093/geront/44.2.176
+
+11. Choi, M.; O'Connor, M.L.; Mingo, C.A.; Mezuk, B., "Gender and racial
+disparities in life-space constriction among older adults." Gerontologist.
+Dec 2016, 58, (3), 1153 - 1160. DOI: 10.1093/geront/gnv061
+
+12. Choi, Moon; Mezuk, Briana; Lohman, Matthew C.; Edwards, Jerri D.;
+Rebok, George W., "Gender and racial disparities in driving cessation among
+older adults." Journal of Aging and Health. Dec 2013, 25, (8S), 147S -
+162S. DOI: 10.1177/0898264313519886
+
+13. Clark, Daniel O.; Xu, Huiping; Callahan, Christopher M.; Unverzagt,
+Frederick W., "Does body mass index modify memory, reasoning, and speed of
+processing training effects in older adults." Obesity. Nov 2016, 24, (11),
+2319 - 2326. DOI: 10.1002/oby.21631
+
+14. Clark, Daniel O.; Xu, Huiping; Unverzagt, Frederick W.; Hendrie, Hugh,
+"Does targeted cognitive training reduce educational disparities in
+cognitive function among cognitively normal older adults?." International
+Journal of Geriatric Psychiatry. Jul 2016, 31, (7), 809 - 817. DOI:
+10.1002/gps.4395
+
+15. Connor, B.B.; Standen, P.J., "So much technology, so little time:
+Factors affecting use of computer-based brain training games for cognitive
+rehabilitation following stroke." 9th International Conference Disability,
+Virtual Reality and Associated Technologies, Laval, France, Sep 10-12,
+2012.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+16. Crowe, Michael; Andel, Ross; Wadley, Virginia; Cook, Sarah; Unverzagt,
+Frederick; Marsiske, Michael; Ball, Karlene, "Subjective cognitive function
+and decline among older adults with psychometrically defined amnestic MCI."
+International Journal of Geriatric Psychiatry. Dec 2006, 21, (12), 1187 -
+1192. DOI: 10.1002/gps.1639
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+17. Diehl, Manfred; Marsiske, Michael; Horgas, Ann L.; Rosenberg, Adrienne;
+Saczynski, Jane S.; Willis, Sherry L., "Revised Observed Tasks of Daily
+Living: A performance-based assessment of everyday problem solving in older
+adults." Journal of Applied Gerontology. Jun 2005, 24, (3), 211 - 230. DOI:
+10.1177/0733464804273772
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+18. Edwards, J.; Ross, L.; Wadley, V.; Clay, O.; Crowe, M.; Roenker, D.;
+Ball, K., "The Useful Field of View Test: Normative data for older adults."
+Archives of Clinical Neuropsychology. under review 2006,. DOI:
+10.1016/j.acn.2006.03.001
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+19. Edwards, J.D.; Lunsman, M.; Perkins, M.; Rebok, G.W.; Roth, D.L.,
+"Driving cessation and health trajectories in older adults." Journals of
+Gerontology, Series A: Biological Sciences and Medical Sciences. Dec 2009,
+64, (12), 1290 - 1295. DOI: 10.1093/gerona/glp114
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+20. Edwards, Jerri D.; Fausto, Bernadette A.; Tetlow, Amber M.; Corona,
+Richard T.; Valdes, Elise G., "Systematic review and meta-analyses of
+useful field of view cognitive training." Neuroscience and Biobehavioral
+Reviews. Jan 2018, 84, 72 - 91. DOI: 10.1016/j.neubiorev.2017.11.004
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+21. Edwards, Jerri D.; Ross, Lesley A.; Ackerman, Michelle L.; Small, Brent
+J.; Ball, Karlene K.; Bradley, Stacy; Dodson, Joan E., "Longitudinal
+predictors of driving cessation among older adults from the ACTIVE clinical
+trial." Journals of Gerontology, Series B: Psychological Sciences and
+Social Sciences. Jan 2008, 63, (1), 6 - 12. DOI: 10.1093/geronb/63.1.P6
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+22. Edwards, Jerri D.; Xu, Huiping; Clark, Daniel O.; Guey, Lin T.; Ross,
+Lesley A.; Unverzagt, Frederick W., "Speed of processing training results
+in lower risk of dementia." Alzheimer's and Dementia: Translational
+Research and Clinical Interventions. Nov 2017, 3, (4), 603 - 611. DOI:
+10.1016/j.trci.2017.09.002
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+23. Edwards, Jerri D.; Xu, Huiping; Clark, Daniel; Ross, Lesley A.;
+Unverzagt, Frederick W., "The Active Study: What We Have Learned and what
+is Next? Cognitive Training Reduces Incident Dementia Across Ten Years."
+Presented at the Alzheimer's Association International Conference (AAIC),
+Alzheimer's Association, Toronto, Canada, Jul 24-25, 2016. DOI:
+10.1016/j.jalz.2016.06.373 S2-01-02
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+24. Ellis, Michelle L.; Edwards, Jerri D.; Peterson, Lindsay; Roker,
+Rosalyn; Athilingam, Ponrathi, "Effects of cognitive speed of processing
+training Among older adults with heart failure." Journal of Aging and
+Health. Jun 2014, 26, (4), 600 - 615. DOI: 10.1177/0898264314525666
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+25. Fausto, Bernadette A.; Badana, Adrian N.S.; Valdes, Olivia M.;
+Athilingam, Ponrathi; Edwards, Jerri D., "Examination of heart failure as a
+predictor of driving cessation." Journal of Transport and Health. Dec 2017,
+7, 202 - 208. DOI: 10.1016/j.jth.2017.10.003
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+26. Feger, Danielle M.; Willis, Sherry L.; Deal, Jennifer; Dean, Lorraine
+T.; Gross, Alden L., "Disparities in first instrumental activity of daily
+living difficulty between Black and White older adults: Findings from the
+Advanced Cognitive Training in Independent and Vital Elderly Study."
+Journal of Aging and Health. In press 2021,. DOI: 10.1177/08982643211023005
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+27. Feger, Danielle; Deal, Jennifer; Gross, Alden, "Latent Classes of First
+Incident Difficulty in Instrumental Activities of Daily Living [poster]."
+Presented at the Gerontological Society of America (GSA) 2021 Annual
+Scientific Meeting [virtual], Gerontological Society of America (GSA), Nov
+10-13, 2021. DOI: 10.1093/geroni/igab046.3702
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+28. Gallo, J.J.; Rebok, G.W.; Tennstedt, S.; Wadley, V.G.; Horgas, A.,
+"Linking Depressive Symptoms and Functional Disability in Late Life." Aging
+and Mental Health. Nov 2003, 7, (6), 469 - 480. DOI:
+10.1080/13607860310001594736
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+29. Gross, A.L.; Dzierzewski, J.M.; Farias, S.; Giovannetti, T.; Ip, E.;
+Marsiske, M.; Payne, B.R.; Rebok, G., "The ACTIVE Conceptual Framework
+Operationalized as a Structural Equation Model." Presented at the 2015
+Annual Meeting of the Gerontological Society of America (GSA),
+Gerontological Society of America (GSA), Orlando, FL, Nov 18-22, 2015. DOI:
+10.1093/geront/gnv644.04
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+30. Gross, Alden L., "Memory Strategy Use among Older Adults: Predictors
+and Health Correlates in the Advanced Cognitive Training for Independent
+and Vital Elderly (ACTIVE) Study." Dissertation, Johns Hopkins University,
+2011.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+31. Gross, Alden L.; Brandt, Jason; Bandeen-Roche, Karen; Carlson, Michelle
+C.; Stuart, Elizabeth A.; Marsiske, Michael; Rebok, George W., "Do older
+adults use the method of loci? Results from the ACTIVE study." Experimental
+Aging Research. 2014, 40, (2), 140 - 163. DOI: 10.1080/0361073X.2014.882204
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+32. Gross, Alden L.; Inouye, Sharon K.; Rebok, George W.; Brandt, Jason;
+Crane, Paul K.; Parisi, Jeanine M.; Tommet, Doug; Bandeen-Roche, Karen;
+Carlson, Michelle C.; Jones, Richard N., "Parallel but not equivalent:
+Challenges and solutions for repeated assessment of cognition over time."
+Journal of Clinical and Experimental Neuropsychology. Apr 30 2012, 34, (7),
+758 - 772. DOI: 10.1080/13803395.2012.681628
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+33. Gross, Alden L.; Kueider-Paisley, Alexandra M.; Sullivan, Campbell;
+Schretlen, David; International Neuropsychological Normative Database
+Initiative, "Comparison of approaches for equating different versions of
+the Mini-Mental State Examination administered in 22 studies." American
+Journal of Epidemiology. Dec 2019, 188, (12), 2202 - 2212. DOI:
+10.1093/aje/kwz228
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+34. Gross, Alden L.; Payne, Brennan R.; Casanova, Ramon; Davoudzadeh, Pega;
+Dzierzewski, Joseph M.; Farias, Sarah; Giovannetti, Tania; Ip, Edward H.;
+Marsiske, Michael; Rebok, George W.; Schaie, K. Warner; Thomas, Kelsey;
+Willis, Sherry; Jones, Richard N., "The ACTIVE conceptual framework as a
+structural equation model." Experimental Aging Research. Jan-Feb 2018, 44,
+(1), 1 - 17. DOI: 10.1080/0361073X.2017.1398802
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+35. Gross, Alden L.; Rebok, George W., "Memory training and strategy use in
+older adults: Results from the ACTIVE study." Psychology and Aging. 2011,
+26, (3), 503 - 517. DOI: 10.1037/a0022687
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+36. Gross, Alden L.; Rebok, George W.; Brandt, Jason; Tommet, Doug;
+Marsiske, Michael; Jones, Richard N., "Modeling learning and memory using
+verbal learning tests: Results from ACTIVE." Journals of Gerontology,
+Series B: Psychological Sciences and Social Sciences. Mar 2013, 68, (2),
+153 - 167. DOI: 10.1093/geronb/gbs053
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+37. Gross, Alden L.; Rebok, George W.; Unverzagt, Frederick W.; Willis,
+Sherry L.; Brandt, Jason, "Cognitive predictors of everyday functioning in
+older adults: Results from the ACTIVE cognitive intervention trial."
+Journals of Gerontology, Series B: Psychological Sciences and Social
+Sciences. 2011, 66, (5), 557 - 566. DOI: 10.1093/geronb/gbr033
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+38. Gross, Alden L; Rebok, George W; Unverzagt, Frederick W; Willis, Sherry
+L; Brandt, Jason, "Word list memory predicts everyday function and problem-
+solving in the elderly: Results from the ACTIVE cognitive intervention
+trial." Neuropsychology, Development and Cognition. Section B: Aging,
+Neuropsychology and Cognition. Mar 2011, 18, (2), 129 - 146. DOI:
+10.1080/13825585.2010.516814
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+39. Gunter, Lacey; Chernick, Michael; Sun, Jiajing, "A simple method for
+variable selection in regression with respect to treatment selection."
+Pakistan Journal of Statistics and Operation Research. Oct 2011, 7, (2),
+363 - 380.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+40. Hansel, Jamie N., "Factors Predicting Trajectory in Daily Functioning
+Five Years Post Cognitive Training." Thesis, University of Colorado,
+Colorado Springs, 2021.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+41. Horgas, Ann L.; Snigurska, Urszula; Farland, Michelle Z.; Marsiske,
+Michael, "Analyzing analgesic medications in community-dwelling older
+adults." Pain Medicine. Jan 2019, 20, (1), 58 - 67. DOI: 10.1093/pm/pnx340
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+42. Jobe, J.B.; Smith, D.M.; Ball, K.; Tennstedt, S.L.; Marsiske, M.;
+Willis, S.L.; Rebok, G.W.; Morris, J.N.; Helmers, K.F.; Leveck, M.D.;
+Kleinman, K., "ACTIVE: A cognitive intervention trial to promote
+independence in older adults." Controlled Clinical Trials. Aug 2001, 22,
+(4), 453 - 479. DOI: 10.1016/S0197-2456(01)00139-8
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+43. Jones, Richard N.; Rosenberg, Adrienne L.; Morris, John N.; Allaire,
+Jason C.; McCoy, Karin J.M.; Marsiske, Michael; Kleinman, Ken P.; Rebok,
+George W.; Malloy, Paul F., "Growth curve model of learning acquisition
+among cognitively normal older adults." Experimental Aging Research.
+Jul/Sep 2005, 31, (3), 291 - 312. DOI: 10.1080/03610730590948195
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+44. Kennedy, Bridgett Hill, "Explaining Racial Differences in MCI
+Classification in the ACTIVE Sample." Dissertation, University of Alabama
+at Birmingham, 2011.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+45. Kiefer, Christoph; Mayer, Axel, "Accounting for latent covariates in
+average effects from count regressions." Multivariate Behavioral Research.
+In press 2020,. DOI: 10.1080/00273171.2020.1751027
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+46. Kiefer, Christoph; Mayer, Axel, "Treatment effects on count outcomes
+with non-normal covariates." British Journal of Mathematical and
+Statistical Psychology. In press 2021,. DOI: 10.1111/bmsp.12237
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+47. Kueider, Alexandra M., "Obesity and Physical Functioning: Associations
+with Cognition in the Advanced Cognitive Training for Independent and Vital
+Elderly (ACTIVE) Cohort." Dissertation, Johns Hopkins University, 2014.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+48. Kuo, H.; Jones, R.N.; Milberg, W.P.; Tennstedt, S.; Talbot, L.; Morris,
+J.N.; Lipsitz, L.A., "Cognitive function in normal-weight, overweight, and
+obese older adults: An analysis of the advanced cognitive training for
+independent and vital elderly cohort." Journal of the American Geriatrics
+Society. Jan 2006, 54, (1), 97 - 103. DOI: 10.1111/j.1532-5415.2005.00522.x
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+49. Kuo, H.; Jones, R.N.; Milberg, W.P.; Tennstedt, S.; Talbot, L.; Morris,
+J.N.; Lipsitz, L.A., "Effect of blood pressure and diabetes mellitus on
+cognitive and physical functions in older adults: A longitudinal analysis
+of the Advanced Cognitive Training for Independent and Vital Elderly
+Cohort." Journal of the American Geriatrics Society. Jul 2005, 53, (7),
+1154 - 1161. DOI: 10.1111/j.1532-5415.2005.53368.x
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+50. Kvale, Elizabeth A.; Clay, Olivio J.; Ross-Meadows, Lesley A.; McGee,
+Jocelyn S.; Edwards, Jerri D.; Unverzagt, Frederick W.; Ritchie, Christine
+S.; Ball, Karlene K., "Cognitive speed of processing and functional
+declines in older cancer survivors: An analysis of data from the ACTIVE
+trial." European Journal of Cancer Care. Jan 2010, 19, (1), 110 - 117. DOI:
+10.1111/j.1365-2354.2008.01018.x
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+51. Langbaum, Jessica B. S.; Rebok, George W.; Bandeen-roche, Karen;
+Carlson, Michelle C., "Predicting memory training response Patterns:
+Results from ACTIVE." Journals of Gerontology, Series B: Psychological
+Sciences and Social Sciences. 2009, 64, (1), 14 - 23. DOI:
+10.1093/geronb/gbn026
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+52. Langbaum, Jessica Brooke Segal, "Understanding Heterogeneity in
+Response to Memory Training in Older Adults: Results from ACTIVE."
+Dissertation, Johns Hopkins University, 2007.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+53. Lin, Feng; Chen, Ding-Geng; Vance, David; Mapstone, Mark, "Trajectories
+of combined laboratory and real world-based speed of processing in
+community-dwelling older adults." Journals of Gerontology, Series B:
+Psychological Sciences and Social Sciences. May 2013, 68, (3), 364 - 373.
+DOI: 10.1093/geronb/gbs075
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+54. Lohman, Matthew C.; Rebok, George W.; Spira, A.P.; Parisi, J.M.; Gross,
+A.L.; Kueider, A.M., "Depressive symptoms and memory performance among
+older adults: Results from the ACTIVE memory training intervention."
+Journal of Aging and Health. Dec 25, 25, (8 Suppl.), 209S - 229S. DOI:
+10.1177/0898264312460573
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+55. Lunsman, Melissa; Edwards, Jerri D.; Andel, Ross; Small, Brent J.;
+Ball, Karlene K.; Roenker, Daniel L., "What predicts changes in useful
+field of view test performance?." Psychology and Aging. 2008, 23, (4), 917
+- 927. DOI: 10.1037/a0013466
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+56. McArdle, John J.; Prindle, John J., "A latent change score analysis of
+a randomized clinical trial in reasoning training." Psychology and Aging.
+2008, 23, (4), 702 - 719. DOI: 10.1037/a0014349
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+57. Meyer, O.L.; Sisco, S.M.; Harvey, D.; Zahodne, L.B.; Glymour, M.M.;
+Manly, J.J.; Marsiske, Michael, "Neighborhood predictors of cognitive
+training outcomes and trajectories in ACTIVE." Research on Aging. Mar 2017,
+39, (3), 443 - 467. DOI: 10.1177/0164027515618242
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+58. Mowszowski, L.; Lampit, A.; Walton, C.C.; Naismith, S.L., "Strategy-
+based cognitive training for Improving executive functions in older adults:
+A systematic review." Neuropsychology Review. Sep 2016, 26, (3), 252 - 270.
+DOI: 10.1007/s11065-016-9329-x
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+59. O'Connor, Melissa L.; Edwards, Jerri D.; Small, Brent J., Andel, Ross,
+"Patterns of level and change in self-reported driving behaviors among
+older adults: Who self-regulates?." Journals of Gerontology, Series B:
+Psychological Sciences and Social Sciences. Jul 2012, 67, (4), 437 - 446.
+DOI: 10.1093/geronb/gbr122
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+60. O'Connor, Melissa L.; Edwards, Jerri D.; Wadley, Virginia G.; Crowe,
+Michael, "Changes in mobility among older adults with psychometrically
+defined mild cognitive impairment." Journals of Gerontology, Series B:
+Psychological Sciences and Social Sciences. 2010, 65, (3), 306 - 316. DOI:
+10.1093/geronb/gbq003
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+61. O'Connor, Melissa L.; Edwards, Jerri D.; Waters, Martinique P.; Hudak,
+Elizabeth M.; Valdes, Elise G., "Mediators of the association between
+driving cessation and mortality among older adults." Journal of Aging and
+Health. Dec 2013, 25, (8 Suppl.), 249S - 269S. DOI:
+10.1177/0898264313497796
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+62. O'Connor, Melissa Lunsman, "How Does Mobility Change Over Time for
+Older Adults, and How Are Changes Influenced by Cognitive Functioning?."
+Dissertation, University of South Florida, 2010.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+63. Onubogu, Uloma, "Relationships among Pain, Pain Medication, and Pain
+Outcomes in Older Adults with Arthritis." Dissertation, University of
+Florida, 2008.
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+64. Onubogu, Uloma D., "Pain and depression in older adults with
+arthritis." Orthopaedic Nursing. Mar-Apr 2014, 33, (2), 102 - 108. DOI:
+10.1097/NOR.0000000000000035
+Full text PDF: http://centaur.reading.ac.uk/31736/1/ICDVRAT2012_Full_Proceedings_9th_Conf.pdf
+
+65. Owens, Joshua, "The Effects of Occupational Complexity on Late Life
+Cognition in ACTIVE: Examining the Mediating and Moderating Effects of
+Race." Thesis, University of Florida, 2021.
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+66. Owsley, Cynthia; Sloane, Michael; McGwin, Gerald, Jr.; Ball, Karlene,
+"Timed instrumental activities of daily living tasks: Relationship to
+cognitive function and everyday performance assessments in older adults  ."
+Gerontology. Jul/Aug 2002, 48, (4), 254 - 265. DOI: 10.1159/000058360
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+67. Papp, Kathryn V.; Walsh, Stephen J.; Snyder, Peter J., "Immediate and
+delayed effects of cognitive interventions in healthy elderly: A review of
+current literature and future directions." Alzheimer's and Dementia. Jan
+2009, 5, (1), 50 - 60. DOI: 10.1016/j.jalz.2008.10.008
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+68. Parisi, J.M.; Franchetti, M.K.; Rebok, G.W.; Spira, A.P.; Carlson,
+M.C., Willis, S.L., Gross, A., "Depressive symptoms and inductive reasoning
+performance: Findings from the ACTIVE reasoning training intervention."
+Psychology and Aging. 2014, 29, (4), 843 - 851. DOI: 10.1037/a0037670
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+69. Parisi, Jeanine M.; Gross, Alden L.; Marsiske, Michael; Willis, Sherry
+L.; Rebok, George W., "Control beliefs and cognition over a 10-year period:
+Findings from the ACTIVE trial." Psychology and Aging. Feb 2017, 32, (1),
+69 - 75. DOI: 10.1037/pag0000147
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+70. Parisi, Jeanine M.; Gross, Alden L.; Rebok, George W.; Saczynski, Jane
+S.; Crowe, Michael; Cook, Sarah E.; Langbaum, Jessica B.S.; Sartori,
+Andrea; Unverzagt, Fredrick W., "Modeling change in memory performance and
+memory perceptions: Findings from the ACTIVE study." Psychology and Aging.
+Sep 2011, 26, (3), 518 - 524. DOI: 10.1037/a0022458
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+71. Parisi, Jeanine M.; Sharifian, Neika; Rebok, George W.; Aiken-Morgan,
+Adrienne T.; Gross, Alden L.; Zahodne, Laura B., "Subjective memory,
+objective memory, and race over a 10-year period: Findings from the ACTIVE
+study." Psychology and Aging. 2021, 36, (5), 572 - 583. DOI:
+10.1037/pag0000622
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+72. Payne, Brennan R.; Gross, Alden L.; Hill, Patrick L.; Parisi, Jeanine
+M.; Rebok, George W.; Stine-Morrow, Elizabeth A.L., "Decomposing the
+relationship between cognitive functioning and self-referent memory beliefs
+in older adulthood: What's memory got to do with it?." Neuropsychology,
+Development and Cognition. Section B: Aging, Neuropsychology and Cognition.
+Jul 2017, 24, (4), 345 - 362. DOI: 10.1080/13825585.2016.1218425
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+73. Payne, Brennan R.; Gross, Alden L.; Parisi, Jeanine M.; Sisco, Shannon
+M.; Stine-Morrow, Elizabeth A.; Marsiske, Michael; Rebok, George W.,
+"Modelling longitudinal changes in older adults' memory for spoken
+discourse: Findings from the ACTIVE cohort." Memory. Nov 2014, 22, (8), 990
+- 1001. DOI: 10.1080/09658211.2013.861916
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+74. Peiffer, S., "Effet de l'entraînement cognitif sur les symptômes
+dépressifs [Effect of cognitive training on depressive symptoms]." Les
+Cahiers de l'annee gerontologique (Imprime). 2010, 2, (3), 225 - 227. DOI:
+10.1007/s12612-010-0063-3
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+75. Phillips, Christine B.; Freed, Sara A.; Ross, Lesley A., "Older adult
+lifespace varies by driving status and residential population density."
+Transportation Research Record. Jul 2019, 2673, (7), 586 - 595. DOI:
+10.1177/0361198119846092
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+76. Phillips, Christine B.; Sprague, Briana N.; Freed, Sara A.; Ross,
+Lesley A., "Longitudinal associations between changes in physical function
+and driving mobility behaviors of older adults." Transportation Research
+Record. 2016, 2584, 70 - 76. DOI: 10.3141/2584-09
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+77. Prindle, John J.; McArdle, John J., "How representative is the ACTIVE
+sample? A statistical comparison of the ACTIVE sample and the HRS sample."
+Journal of Aging and Health. Dec 2013, 25, (8), 85S - 102S. DOI:
+10.1177/0898264313497795
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+78. Prindle, John Janson, "Latent Change Score Analysis of the Impacts of
+Memory Training in the Elderly from a Randomized Clinical Trial." Thesis,
+University of Southern California, 2008.
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+79. Rebok, George W.; Langbaum, Jessica B.S.; Jones, Richard N.; Gross,
+Alden L.; Parisi, Jeanine M.; Spira,  Adam P.; Kueider, Alexandra ; Petras,
+Hanno; Brandt, Jason, "Memory training in the ACTIVE study: How much is
+needed and who benefits?." Journal of Aging and Health. Dec 2013, 25, (8S),
+21S - 42S. DOI: 10.1177/0898264312461937
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+80. Ross, Lesley A.; Edwards, Jerri D.; O'Connor, Melissa L.; Ball, Karlene
+K.; Wadley, Virginia G.; Vance, David E., "The transfer of cognitive speed
+of processing training to
+older adults' driving mobility across 5 years." Journals of Gerontology,
+Series B: Psychological Sciences and Social Sciences. Jan 2016, 71, (1), 87
+- 97. DOI: 10.1093/geronb/gbv022
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+81. Ross, Lesley A.; Sprague, Briana N.; Phillips, Christine B.; O'Connor,
+Melissa L.; Dodson, Joan E., "The impact of three cognitive training
+interventions on older adults' physical functioning across 5 years."
+Journal of Aging Health. Mar 2018, 30, (3), 475 - 498. DOI:
+10.1177/0898264316682916
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+82. Rotblatt, Lindsay J.; Aiken-Morgan, Adrienne T.; Marsiske, Michael;
+Horgas, Ann L.; Thomas, Kelsey R., "Do associations between vascular risk
+and mild cognitive impairment vary by race?." Journal of Aging and Health.
+In press 2021,. DOI: 10.1177/0898264320984357
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+83. Rouanet, Anais; Avila-Rieger, Justina; Dugravot, Aline; Lespinasse,
+Jeremie; Stuckwisch, Rachel; Merrick, Richard; Anderson, Emma; Long, Leann;
+Helmer, Catherine; Jacqmin-Gadda, Helene; Dufouil, Carole; Judd, Suzanne;
+Manly, Jennifer; Sabia, Severine; Gross, Alden; Proust-Lima, Cecile, "How
+selection over time contributes to the inconsistency of the association
+between sex/gender and cognitive decline across cognitive aging cohorts."
+American Journal of Epidemiology. Mar 2022, 191, (3), 441 - 452. DOI:
+10.1093/aje/kwab227
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+84. Sisco, Shannon M., "Neighborhood Influences on Cognitive Level and
+Training Gains in the ACTIVE Study." Dissertation, University of Florida,
+2012.
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+85. Sisco, Shannon M.; Marsiske, Michael, "Neighborhood influences on late
+life cognition in the ACTIVE study." Journal of Aging Research. Jun 2012,
+2012, 1 - 11. DOI: 10.1155/2012/435826
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+86. Sisco, Shannon M.; Marsiske, Michael; Gross, Alden L.; Rebok, George
+W., "The influence of cognitive training on older adults' recall for short
+stories." Journal of Aging and Health. Dec 2013, 25, (8S), 230S - 248S.
+DOI: 10.1177/0898264313501386
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+87. Staessen Jan A.; Richart Tom; Birkenhäger Willem H., "Less
+atherosclerosis and lower blood pressure for a meaningful life perspective
+with more brain." Hypertension. Mar 2007, 49, (3), 389 - 400. DOI:
+10.1161/01.HYP.0000258151.00728.d8
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+88. Stypulkowski, Katie; Hansel, Jamie; Thayer, Rachel, "Factors Impacting
+Long-Term Proactive and Reactive Healthcare Utilization in Cognitively
+Healthy Older Adults." Presented at the 41st Annual National Academy of
+Neuropsychology Conference, National Academy of Neuropsychology,
+Washington, DC, Nov 10-13, 2021. DOI: 10.1093/arclin/acab062.32 A-14
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+89. Tennstedt, S., "Results from the Active Study: Understanding the
+Observed Training Effects." Presented at the Gerontological Society of
+America 57th Annual Scientific Meeting, Gerontological Society of America,
+Washington, DC, Nov 19-23, 2004. 261
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+90. Thomas, K.R.; Cook, S.; Bondi, M.W.; Ball, K.; Clay, O.J.; Felix, C.;
+Gross, A.; McCaskill, G.M.; Rebok, G.; Ross, L.; Unverzagt, F.W.; Willis,
+S.L.; Marsiske, M., "Cognitive Training Increases MCI-to-Normal Reversion
+Rate in the Active Study [poster]." Presented at the 2019 Annual Convention
+of the American Psychological Association (Divison 40), Society for
+Clinical Neuropsychology, American Psychological Association, Chicago, IL,
+Aug 8-11, 2019.
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+91. Thomas, Kelsey R.; Cook, Sarah E.; Bondi, Mark W.; Unverzagt, Frederick
+W.; Gross, Alden L.; Willis, Sherry L.; Marsiske, Michael, "Application of
+neuropsychological criteria to classify mild cognitive impairment in the
+active study." Neuropsychology. 2020, 34, (8), 862 - 873. DOI:
+10.1037/neu0000694
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+92. Tomaszewski Farias, Sarah; Giovannetti, Tania; Payne, Brennan R.;
+Marsiske, Michael; Rebok, George W.; Schaie, K. Warner; Thomas, Kelsey R.;
+Willis, Sherry L.; Dzierzewski, Joseph M.; Unverzagt, Frederick; Gross,
+Alden L., "Self-perceived difficulties in everyday function precede
+cognitive decline among older adults in the ACTIVE Study." Journal of the
+International Neuropsychological Society. Jan 2018, 24, (1), 104 - 112.
+DOI: 10.1017/S1355617717000546
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+93. Tucker-Drob, Elliot M., "Neurocognitive functions and everyday
+functions change together in old age." Neuropsychology. May 2011, 25, (3),
+368 - 377. DOI: 10.1037/a0022348
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+94. Tucker-Drob, Elliot M.; Johnson, Kathy E.; Jones, Richard N., "The
+cognitive reserve hypothesis: A longitudinal examination of age-associated
+declines in reasoning and processing speed." Developmental Psychology. Mar
+2009, 45, (2), 431 - 446. DOI: 10.1037/a0014012
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+95. Univerzagt, F.W.; Kasten, L.; Johnson, K.E.; Rebok, G.W.; Marsiske, M.;
+Koepke, K.M.; Elias, J.W.; Morris, J.N.; Willis, S.L.; Ball, K.; Rexroth,
+D.F.; Smith, D.M.; Wolinsky, F.D.; Tennstedt, S.L., "Effect of memory
+impairment on training outcomes in ACTIVE." Journal of the International
+Neuropsychological Society. Nov 2007, 13, (6), 953 - 960. DOI:
+10.1017/S1355617707071512
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+96. Unverzagt, F.W.; Smith, D.M.; Rebok, G.W.; Marsiske, M.; Morris, J.N.;
+Jones, R.; Willis, S.L.; Ball, K.; King, J.W.; Koepke, K.M.; Stoddard, A.;
+Tennstedt, S.L., "The Indiana Alzheimer Disease Center's Symposium on Mild
+Cognitive Impairment. Cognitive training in older adults: Lessons from the
+ACTIVE study." Current Alzheimer Research. Aug 2009, 6, (4), 375 - 383.
+DOI: 10.2174/156720509788929345
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+97. Unverzagt, Frederick W.; Guey, Lin T.; Jones, Richard N.; Marsiske,
+Michael; King, Jonathan W.; Wadley, Virginia G.;  Crowe, Michael; Rebok,
+George W.; Tennstedt, Sharon L., "ACTIVE cognitive training and rates of
+incident dementia." Journal of the International Neuropsychological
+Society. Jul 2012, 18, (4), 669 - 677. DOI: 10.1017/S1355617711001470
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+98. Valdes, Elise G.; O'Connor, Melissa L.; Edwards, Jerri D., "The effects
+of cognitive speed of processing training among older adults with
+psychometrically-defined mild cognitive impairment." Current Alzheimer
+Research. Nov 2012, 9, (9), 999 - 1009. DOI: 10.2174/156720512803568984
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+99. Vance, David E.; Ross, Lesley A.; Crowe, Michael G.; Wadley, Virginia
+G.; Edwards, Jerri D.; Ball, Karlene K., "The relationship of memory,
+reasoning, and speed of processing on falling among older adults." Physical
+and Occupational Therapy in Geriatrics. 2009, 27, (3), 212 - 228. DOI:
+10.1080/02703180802377123
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+100. Verney, Steven P.; Gibbons, Laura E.; Dmitrieva, Natalia O.; Kueider,
+Alexandra M.; Williams, Michael W.; Meyer, Oanh L.; Manly, Jennifer J.;
+Sisco, Shannon M.; Marsiske, Michael, "Health literacy, sociodemographic
+factors, and cognitive training in the active study of older adults."
+International Journal of Geriatric Psychiatry. Apr 2019, 34, (4), 563 -
+570. DOI: 10.1002/gps.5051
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+101. Wadley, Virginia G.; Crowe, Michael; Marsiske, Michael; Cook, Sarah
+E.; Unverzagt, Frederick W.; Rosenberg, Adrienne L.; Rexroth, Daniel,
+"Changes in everyday function in individuals with psychometrically defined
+mild cognitive impairment in the advanced cognitive training for
+independent and vital elderly study." Journal of the American Geriatrics
+Society. 2007, 55, (8), 1192 - 1198. DOI: 10.1111/j.1532-5415.2007.01245.x
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+102. Wang, Lijuan; Zhang, Zhiyong, "Estimating and testing mediation
+effects with censored data." Structural Equation Modeling. 2011, 18, (1),
+18 - 34. DOI: 10.1080/10705511.2011.534324
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+103. Williams, M.W.; Kueider, A.M.; Dmitrieva, N.O.; Manly, J.J.; Pieper,
+C.F.; Verney, S.P.; Gibbons, L.E., "Anxiety symptoms bias memory assessment
+in older adults." International Journal of Geriatric Psychiatry. Jul 2017,
+32, (9), 983 - 990. DOI: 10.1002/gps.4557
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+104. Wolinsky, F.; Unverzagt, F.; Smith, D.; Jones, R.; Wright, E.;
+Tennstedt, S., "The effects of the ACTIVE cognitive training trial on
+clinically relevant declines in health-related quality of life." Journals
+of Gerontology, Series B: Psychological Sciences and Social Sciences. Sep
+2006, 61, (5), S281 - S287. DOI: 10.1093/geronb/61.5.S281
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+105. Wolinsky, F.D.; Vander Weg, M.W.; Martin, R.; Unverzagt, F.W.; Ball,
+K.K.; Jones, R.N.; Tennstedt, S.L., "The effect of speed-of-processing
+training on depressive symptoms in ACTIVE." Journals of Gerontology, Series
+A: Biological Sciences and Medical Sciences. April 2009, 64, (4), 468 -
+472. DOI: 10.1093/gerona/gln044
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+106. Wolinsky, Fredric D.; Mahncke, Henry W.; VanderWeg, Mark W.; Martin,
+Rene; Unverzagt, Frederick W.; Ball, Karlene K.; Jones, Richard N.;
+Tennstedt, Sharon L., "The ACTIVE cognitive training interventions and the
+onset of and recovery from suspected clinical depression." Journals of
+Gerontology, Series B: Psychological Sciences and Social Sciences. 2009,
+64, (5), 577 - 585. DOI: 10.1093/geronb/gbp061
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+107. Wolinsky, Fredric D.; Mahncke, Henry; VanderWeg, Mark W.; Martin,
+Rene; Unverzagt, Frederick W.; Ball, Karlene K.; Jones, Richard N.;
+Tennstedt, Sharon L., "Speed of processing training protects self-rated
+health in older adults: Enduring effects observed in the multi-site ACTIVE
+randomized controlled trial." International Psychogeriatrics. 2010, 22,
+(3), 470 - 478. DOI: 10.1017/S1041610209991281
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+108. Wolinsky, Fredric D.; Unverzagt, Frederick W.; Smith, David M.; Jones,
+Richard; Stoddard, Anne; Tennstedt, Sharon L., "The ACTIVE cognitive
+training trial and health-related quality of life: Protection that lasts
+for 5 years." Journals of Gerontology, Series A: Biological Sciences and
+Medical Sciences. Dec 2006, 61, (12), 1324 - 1329. DOI:
+10.1093/gerona/61.12.1324
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+109. Wolinsky, Fredric D.; VanderWeg, Mark W.; Martin, René; Unverzagt,
+Frederick W.; Willis, Sherry L.; Marsiske, Michael; Rebok, George W.;
+Morris, John N.; Ball, Karlene K.; Tennstedt, Sharon L., "Does cognitive
+training improve internal locus of control among older adults?." Journals
+of Gerontology, Series B: Psychological Sciences and Social Sciences. 2010,
+65, (5), 591 - 598. DOI: 10.1093/geronb/gbp117
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+110. Yam, Anna; Marsiske, Michael, "Cognitive longitudinal predictors of
+older adults' self-reported IADL function." Journal of Aging and Health.
+Dec 2013, 25, (8_S), 163S - 185S. DOI: 10.1177/0898264313495560
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+111. Yen, Y.-C.; Rebok, G.W.; Gallo, J.J.; Jones, R.N.; Tennstedt, S.L.,
+"Depressive symptoms impair everyday problem-solving ability through
+cognitive abilities in late life." American Journal of Geriatric
+Psychiatry. Feb 2011, 19, (2), 142 - 150. DOI: 10.1097/JGP.0b013e3181e89894
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+112. Yen, Yung-Chieh, "Cognitive Mediators of Depression-Functioning
+Relationships among Community-Dwelling Older Adults." Dissertation, Johns
+Hopkins University, 2007.
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+113. Zahodne, Laura B.; Meyer, Oanh L.; Choi, Eunhee; Thomas, Michael L.;
+Willis, Sherry L.; Marsiske, Michael; Gross, Alden L.; Rebok, George W.;
+Parisi, Jeanine M., "External locus of control contributes to racial
+disparities in memory and reasoning training gains in ACTIVE." Psychology
+and Aging. Sep 2015, 30, (3), 561 - 572. DOI: 10.1037/pag0000042
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf
+
+114. Zhang, Zhiyong; Hamagami, Fumiaki; Grimm, Kevin J.; McArdle, John J.,
+"Using R package RAMpath for tracing SEM path diagrams and conducting
+complex longitudinal cata analysis." Structural Equation Modeling. 2015,
+22, (1), 132 - 147. DOI: 10.1080/10705511.2014.935257
+Full text PDF: https://phhp-marsiske.sites.medinfo.ufl.edu/wordpress/files/2021/07/Owens_Thesis2021.pdf

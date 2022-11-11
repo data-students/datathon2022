@@ -1,0 +1,1248 @@
+File Manifest for ICPSR 4248
+
+Tennstedt, Sharon, John Morris, Frederick Unverzagt, George W. Rebok,
+Sherry L. Willis, Karlene Ball, and Michael Marsiske. Advanced Cognitive
+Training for Independent and Vital Elderly (ACTIVE), United States, 1999-
+2001. ICPSR04248-v3. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2010-06-30.
+http://doi.org/10.3886/ICPSR04248.v3
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-descriptioncitation.pdf       -       -         -       2018-10-15  -
+
+    04248-related_literature.txt        -       -         -       daily       -
+
+    04248-manifest.txt                  -       -         -       daily       -
+
+    04248-Documentation.pdf             -       -         -       2005-10-10  d6f834d280ca6ff9d7055936134d35a9
+
+
+DS0001 Form 2 Screener
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0001-Codebook.pdf             -       -         -       2009-08-06  9a47378a2c524343bd5027fab29c810b
+
+    04248-0001-Data.dta                 -       2,802     51      2009-08-06  6abaaf8e35259dbff21c377cad49d506
+
+    04248-0001-Data.sav                 -       2,802     51      2009-08-06  959c6ef4445e7699bf9e1ba4ee06715e
+
+    04248-0001-Data.stc                 -       2,802     51      2009-08-06  fe47bd7130e432428ca44a47af43271f
+
+    04248-0001-Data.tsv                 -       2,802     51      2009-08-06  1e96d3d26b2334a278f4989771738566
+
+    04248-0001-Data.txt                 494     2,802     51      2009-08-06  0e9d16414be823dabd1e0e73dba37dba
+
+    04248-0001-Questionnaire.pdf        -       -         -       2009-08-06  51f6a37e8e5dd4627fd31c9644280c86
+
+    04248-0001-Setup.dct                -       -         -       2009-08-06  89ba8fbb53b000cf477f8135c5c5f421
+
+    04248-0001-Setup.do                 -       -         -       2009-08-06  cc3e0432330aa041f1a361038e185324
+
+    04248-0001-Setup.sas                -       -         -       2009-08-06  733b06204cbe5b897c1c358a60602ef2
+
+    04248-0001-Setup.sps                -       -         -       2009-08-06  6a8f45d9022d177b4c2cd62b0662570b
+
+
+DS0002 Form 3 Baseline Individual Assessment, Part 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0002-Codebook.pdf             -       -         -       2009-08-06  57ebc50774696184828b16c429bbc9a3
+
+    04248-0002-Data.dta                 -       2,802     82      2009-08-06  e6fd9264290de74d1a38c3303b360643
+
+    04248-0002-Data.sav                 -       2,802     82      2009-08-06  ceb5135b3f8e61fc30c2e0b22e07c725
+
+    04248-0002-Data.stc                 -       2,802     82      2009-08-06  91ba46a779876a1ea2fa20075dcfd79e
+
+    04248-0002-Data.tsv                 -       2,802     82      2009-08-06  e6c50f7959df2cb06af5a41c39a30ec3
+
+    04248-0002-Data.txt                 807     2,802     82      2009-08-06  7cdf9e88c4e59afe55c205edeca7af3f
+
+    04248-0002-Questionnaire.pdf        -       -         -       2009-08-06  a1771db263ebc8545592c0b2e512046f
+
+    04248-0002-Setup.dct                -       -         -       2009-08-06  043da9155e8b068572dee87b0ca4a24b
+
+    04248-0002-Setup.do                 -       -         -       2009-08-06  bbbc73eff9629e45b1c1e5b7226745fd
+
+    04248-0002-Setup.sas                -       -         -       2009-08-06  2a3255d1db1377cf46237de52bd02a28
+
+    04248-0002-Setup.sps                -       -         -       2009-08-06  db027149ccefa28697c2bd2d5ab61635
+
+
+DS0003 Form 4 Baseline Individual Assessment, Part 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0003-Codebook.pdf             -       -         -       2009-08-06  4318235650c717b7a4f1273663078d78
+
+    04248-0003-Data.dta                 -       2,802     259     2009-08-06  53f5629513cfb789288c16464a99b351
+
+    04248-0003-Data.sav                 -       2,802     259     2009-08-06  a9398a8b4dc1d2ce17477009127fff85
+
+    04248-0003-Data.stc                 -       2,802     259     2009-08-06  be437de69999097c685a490503585451
+
+    04248-0003-Data.tsv                 -       2,802     259     2009-08-06  6a716becc4943c9fba9d637e4c0108e1
+
+    04248-0003-Data.txt                 2538    2,802     259     2009-08-06  7a95f7b0383a3cdf782774296c8511f0
+
+    04248-0003-Questionnaire.pdf        -       -         -       2009-08-06  e40341f58d95076a8a5804424038687b
+
+    04248-0003-Setup.dct                -       -         -       2009-08-06  6dd01638b5b2ffe5db2de4056ee71beb
+
+    04248-0003-Setup.do                 -       -         -       2009-08-06  8ac32187e4f950c39bc6cbdb926629eb
+
+    04248-0003-Setup.sas                -       -         -       2009-08-06  e951a982d68cb60655de0f2e290927cc
+
+    04248-0003-Setup.sps                -       -         -       2009-08-06  f2238cafb35c982ce60ba3363f35dc90
+
+
+DS0004 Form 310 HVLT Intrusion/Perseveration Errors
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0004-Codebook.pdf             -       -         -       2009-08-06  8f732b99edb8cbe6512375e93dcc6734
+
+    04248-0004-Data.dta                 -       3,449     8       2009-08-06  cb679043f9b5fef8e5a603b7ead6d544
+
+    04248-0004-Data.sav                 -       3,449     8       2009-08-06  402b6d6a294be4f799570d94501d2b6c
+
+    04248-0004-Data.stc                 -       3,449     8       2009-08-06  f3241a6a12809006ed50264678083e30
+
+    04248-0004-Data.tsv                 -       3,449     8       2009-08-06  8eae5a4e9a70ee77e1bba14af799307b
+
+    04248-0004-Data.txt                 67      3,449     8       2009-08-06  4404e279d511aedac3e5957311b3b1a3
+
+    04248-0004-Setup.dct                -       -         -       2009-08-06  b03c340bde57bcb074a5237df8e29823
+
+    04248-0004-Setup.do                 -       -         -       2009-08-06  aa6c0779157b17fcd3277b306c4ef9a6
+
+    04248-0004-Setup.sas                -       -         -       2009-08-06  3c33c7e95ae702b14a135634c0090f34
+
+    04248-0004-Setup.sps                -       -         -       2009-08-06  71214f62ce7232dfc36453c1bbf6594d
+
+
+DS0005 Form 311 Word Series
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0005-Codebook.pdf             -       -         -       2009-08-06  0c272225f7d7cd00e7003795bbc1851a
+
+    04248-0005-Data.dta                 -       3,442     32      2009-08-06  0c2e6284764174ec9cbcd6598659fd80
+
+    04248-0005-Data.sav                 -       3,442     32      2009-08-06  23f1943341761d73cbcace84a6cd1606
+
+    04248-0005-Data.stc                 -       3,442     32      2009-08-06  b1e92a665ce790eff1c90bac7b04cebc
+
+    04248-0005-Data.tsv                 -       3,442     32      2009-08-06  5cf3dd2373feda9aeaf6ad5e7e382aac
+
+    04248-0005-Data.txt                 283     3,442     32      2009-08-06  f3f6a5435099a83a18ea771b433745ab
+
+    04248-0005-Setup.dct                -       -         -       2009-08-06  7df9e72a31112676800ce6674c4aa1a9
+
+    04248-0005-Setup.do                 -       -         -       2009-08-06  e065eac449dff285c788065980b4734b
+
+    04248-0005-Setup.sas                -       -         -       2009-08-06  ca641af8460dd8d142ee9aff86e58ada
+
+    04248-0005-Setup.sps                -       -         -       2009-08-06  23454f0e207e03959cb0124c70dc7b6b
+
+
+DS0006 Form 312 HVLT Recognition
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0006-Codebook.pdf             -       -         -       2009-08-06  b4d927bf402e6e43c3c669633c7d2d98
+
+    04248-0006-Data.dta                 -       3,449     26      2009-08-06  7049915638cb7b46b14e05e1b32b30d8
+
+    04248-0006-Data.sav                 -       3,449     26      2009-08-06  2ff7ce3a1cc899a90c735a8e6bf21783
+
+    04248-0006-Data.stc                 -       3,449     26      2009-08-06  865e883901048e201d4cd32e580621ee
+
+    04248-0006-Data.tsv                 -       3,449     26      2009-08-06  e5101d5f685085abd3987956d63b3475
+
+    04248-0006-Data.txt                 61      3,449     26      2009-08-06  0cda9409b0d150b97fc3ac37951a3db1
+
+    04248-0006-Setup.dct                -       -         -       2009-08-06  362018c44a7b40c754ba033608853f7d
+
+    04248-0006-Setup.do                 -       -         -       2009-08-06  15f0c16e89b360246560ed532cdc4078
+
+    04248-0006-Setup.sas                -       -         -       2009-08-06  b3b88a763bc5c3ca08a8c8cbec98ee37
+
+    04248-0006-Setup.sps                -       -         -       2009-08-06  1541fb7d322864589c3e2f06abee37c4
+
+
+DS0007 Form 313 UFOV
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0007-Codebook.pdf             -       -         -       2009-08-06  f97b9f86d3f882c8bd27c98d6e6f0a9b
+
+    04248-0007-Data.dta                 -       3,396     6       2009-08-06  e9f6714abe7406fe3fd1eec9f6eacd45
+
+    04248-0007-Data.sav                 -       3,396     6       2009-08-06  2e6c7ebb9698f0241aae93b8b60dc91f
+
+    04248-0007-Data.stc                 -       3,396     6       2009-08-06  2aa82d24c929dd367f41503948f578fb
+
+    04248-0007-Data.tsv                 -       3,396     6       2009-08-06  2f72ef2e94053036a0cf0fb95cf7c806
+
+    04248-0007-Data.txt                 49      3,396     6       2009-08-06  72df90fc06cbdd83c9e51a2a23cc9001
+
+    04248-0007-Setup.dct                -       -         -       2009-08-06  86f233a277117835ecc4f2db68c0cb2b
+
+    04248-0007-Setup.do                 -       -         -       2009-08-06  4cb47ddfe94e21f4ef4ddf6a06073898
+
+    04248-0007-Setup.sas                -       -         -       2009-08-06  59ab64f7fd037873d1615902e1945d60
+
+    04248-0007-Setup.sps                -       -         -       2009-08-06  fcfbcfd5d4a9149d67e7a739bfb31db9
+
+
+DS0008 Form 314 CRT
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0008-Codebook.pdf             -       -         -       2009-08-06  636e5977d41fb41311c7c5ef295b8c31
+
+    04248-0008-Data.dta                 -       3,368     4       2009-08-06  82eb97e5bf0ab74389908ffebd8477a5
+
+    04248-0008-Data.sav                 -       3,368     4       2009-08-06  3b75c3dfa1940e8cfc3a6cf8fa20130d
+
+    04248-0008-Data.stc                 -       3,368     4       2009-08-06  04489c3c2794306f9c4313c78a3f266d
+
+    04248-0008-Data.tsv                 -       3,368     4       2009-08-06  183094b778e56e63fa419c9541ce341e
+
+    04248-0008-Data.txt                 31      3,368     4       2009-08-06  bcfc6e5dd66cdc50d46d7217d7ccd260
+
+    04248-0008-Setup.dct                -       -         -       2009-08-06  01b67a25454bfbbd5848d96836645892
+
+    04248-0008-Setup.do                 -       -         -       2009-08-06  2e1e1e74fad217d952b71b34cb150312
+
+    04248-0008-Setup.sas                -       -         -       2009-08-06  de5fbe8306a2a706a4647c574e1d1217
+
+    04248-0008-Setup.sps                -       -         -       2009-08-06  6154858ea3b1fbfdb0e2ed2eb9130b68
+
+
+DS0009 Form 410 PT Individual Assessment
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0009-Codebook.pdf             -       -         -       2009-08-06  4a62383c1886b1db48f32eab9b9af571
+
+    04248-0009-Data.dta                 -       9,337     4       2009-08-06  9022cc962e84615e573d9e5afc21f3dd
+
+    04248-0009-Data.sav                 -       9,337     4       2009-08-06  3f783ce3435bbd63f99dadcd29cc049b
+
+    04248-0009-Data.stc                 -       9,337     4       2009-08-06  89b96cc6dde2556989cb69a016f3c8e5
+
+    04248-0009-Data.tsv                 -       9,337     4       2009-08-06  8fbda448d386634720251e7efde7c550
+
+    04248-0009-Data.txt                 32      9,337     4       2009-08-06  b1f38fcd3816170cdf6d23c454b9578e
+
+    04248-0009-Setup.dct                -       -         -       2009-08-06  19aae6f3eff0cf69d9e62f18166456e4
+
+    04248-0009-Setup.do                 -       -         -       2009-08-06  532a0cf8a88174aa9e59c73748e17d51
+
+    04248-0009-Setup.sas                -       -         -       2009-08-06  bd4bd7b1bf2280ade1be3569a338aac0
+
+    04248-0009-Setup.sps                -       -         -       2009-08-06  9bb5b6af568e8b62e10d18a8bdceb92a
+
+
+DS0010 Form 411 Digit Symbol Substitution and Digit Symbol Copy Data Coding
+Form
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0010-Codebook.pdf             -       -         -       2009-08-06  6be09d7dddc2fc45f30c2f53ec242818
+
+    04248-0010-Data.dta                 -       3,397     188     2009-08-06  ad03112892cabe7ffaeb5f88bb1119f0
+
+    04248-0010-Data.sav                 -       3,397     188     2009-08-06  8ed14c5303670aea219cd2bcd3cbcfd5
+
+    04248-0010-Data.stc                 -       3,397     188     2009-08-06  f399531fe9838ec85b096b89bef26c85
+
+    04248-0010-Data.tsv                 -       3,397     188     2009-08-06  548a76b27e1a0bf4222dbb7cdbfe76dd
+
+    04248-0010-Data.txt                 1687    3,397     188     2009-08-06  bb1066a92dfc53bf5cccc1cbd9512386
+
+    04248-0010-Questionnaire.pdf        -       -         -       2009-08-06  8e0a985cf2e9f4f2571c7d44e07e9c2c
+
+    04248-0010-Setup.dct                -       -         -       2009-08-06  7ebdb5f839ba11301d47b9377fc43f23
+
+    04248-0010-Setup.do                 -       -         -       2009-08-06  abd0f74df383686c93389651d24fef90
+
+    04248-0010-Setup.sas                -       -         -       2009-08-06  6072ff11993c3a94d49f965371658e8b
+
+    04248-0010-Setup.sps                -       -         -       2009-08-06  2daa6aa7ade7b7fac08cfd4d9d51805f
+
+
+DS0011 Form 415 AN1 Individual Assessment, Part 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0011-Codebook.pdf             -       -         -       2009-08-06  9f26bba8904972517d2b99aec3f16a1d
+
+    04248-0011-Data.dta                 -       9,396     194     2009-08-06  da5b21ac21ea975767f5352bcc3be6e1
+
+    04248-0011-Data.sav                 -       9,396     194     2009-08-06  d7ba5d0b7c4ceaeb40b110f68d43e5a5
+
+    04248-0011-Data.stc                 -       9,396     194     2009-08-06  c8f58ae0c4bdd5bc041cca7a6979790d
+
+    04248-0011-Data.tsv                 -       9,396     194     2009-08-06  ecd10c746e6b3edfd3c7c4d8c77b0115
+
+    04248-0011-Data.txt                 1932    9,396     194     2009-08-06  50c77810a363092877a93b5f9f6b304e
+
+    04248-0011-Questionnaire.pdf        -       -         -       2009-08-06  5fe33db82eecfee9e0d1c7b2044b4d07
+
+    04248-0011-Setup.dct                -       -         -       2009-08-06  61c239fcf9f86656e3328edea8897653
+
+    04248-0011-Setup.do                 -       -         -       2009-08-06  a90a483b7730b992c7d20d4af3bbbf2a
+
+    04248-0011-Setup.sas                -       -         -       2009-08-06  d66299901ebadc38c4dcc7154a644444
+
+    04248-0011-Setup.sps                -       -         -       2009-08-06  4bba471e7e2acb5bb64a305807481f50
+
+
+DS0012 Form 420 AN1 Individual Assessment, Part 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0012-Codebook.pdf             -       -         -       2009-08-06  b52b5146ea034ce498a7bd55c32e2885
+
+    04248-0012-Data.dta                 -       2,122     38      2009-08-06  259ddb8b07cf72b0787c38e4d638eeab
+
+    04248-0012-Data.sav                 -       2,122     38      2009-08-06  c8a9fe526b3452c08be1628a0738977a
+
+    04248-0012-Data.stc                 -       2,122     38      2009-08-06  ed571a3bae8907fef2c47b72a615fedc
+
+    04248-0012-Data.tsv                 -       2,122     38      2009-08-06  e047e0ab5d006f561c7f3de288e74fa2
+
+    04248-0012-Data.txt                 372     2,122     38      2009-08-06  7adae2956d79638d44d231683375570f
+
+    04248-0012-Questionnaire.pdf        -       -         -       2009-08-06  9341fba743072bad8366ac5c7a7cd132
+
+    04248-0012-Setup.dct                -       -         -       2009-08-06  00028d164d8dfe826780a74eef816718
+
+    04248-0012-Setup.do                 -       -         -       2009-08-06  4489749af7c4d1e76b088f4a8ef390cb
+
+    04248-0012-Setup.sas                -       -         -       2009-08-06  b236092f6fb76675cf2ac8d986f9bb10
+
+    04248-0012-Setup.sps                -       -         -       2009-08-06  f0b6c1a3ba8d879cf4ff517937a8ab0a
+
+
+DS0013 Form 422 OTDL
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0013-Codebook.pdf             -       -         -       2009-08-06  9c794795911d9f9a51b131d825e22461
+
+    04248-0013-Data.dta                 -       3,399     58      2009-08-06  349bbfb2822440b425d2e663588eaf1c
+
+    04248-0013-Data.sav                 -       3,399     58      2009-08-06  69dc1b87bc0ac913e35893006fb39e15
+
+    04248-0013-Data.stc                 -       3,399     58      2009-08-06  ac0f54e95f7e35ac5ca59f6ef7be3967
+
+    04248-0013-Data.tsv                 -       3,399     58      2009-08-06  90ba9c34bec5cad525fe937bfbceff5c
+
+    04248-0013-Data.txt                 517     3,399     58      2009-08-06  d94ecb674543cf33e2e52401f79cd1d8
+
+    04248-0013-Documentation-OTDL_MULTI.pdf -       -         -       2009-08-06  18e64a4856e45b7ed6127f42fac88b35
+
+    04248-0013-Questionnaire.pdf        -       -         -       2009-08-06  5447fdc719b46f643ae903d78ca4708a
+
+    04248-0013-Setup.dct                -       -         -       2009-08-06  6fd1faa3e20b4278d4ec8a889b0c2e93
+
+    04248-0013-Setup.do                 -       -         -       2009-08-06  cd4b2439082557727f5b25ec8b1c439c
+
+    04248-0013-Setup.sas                -       -         -       2009-08-06  137654beab9fe672537bd2f89c7594b7
+
+    04248-0013-Setup.sps                -       -         -       2009-08-06  75833349adcc6271ebf4a0f4c9e59342
+
+
+DS0014 Form 5 Take-Home
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0014-Data.dta                 -       3,374     110     2009-08-06  09ea12c610ea2ac3f1ce7267020a2853
+
+    04248-0014-Data.sav                 -       3,374     110     2009-08-06  49c85d4d2e06d695806d2fffa3811d42
+
+    04248-0014-Data.stc                 -       3,374     110     2009-08-06  3720655d38cc701fe931175603ec0860
+
+    04248-0014-Data.tsv                 -       3,374     110     2009-08-06  5b86ec4e5ba1228a10e1fdcf88f1dd0f
+
+    04248-0014-Data.txt                 985     3,374     110     2009-08-06  3977086629472eb52ee05c688a532e38
+
+    04248-0014-Questionnaire.pdf        -       -         -       2009-08-06  e0c42f60ecd553f9d612798e3336d489
+
+    04248-0014-Setup.dct                -       -         -       2009-08-06  104f134d7748e12e5547faf05ce9e547
+
+    04248-0014-Setup.do                 -       -         -       2009-08-06  a357b42df7bdcf0d538f3db1a2d376c7
+
+    04248-0014-Setup.sas                -       -         -       2009-08-06  848b9ab0ddb29b4bb94c62f917150b19
+
+    04248-0014-Setup.sps                -       -         -       2009-08-06  6332af1efff0b8224c70b2784757b201
+
+
+DS0015 Form 510 Post-Test Take-Home
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0015-Codebook.pdf             -       -         -       2009-08-06  0c3ddc706d2f2e6837d71095631089c8
+
+    04248-0015-Data.dta                 -       2,493     57      2009-08-06  73d5c75d564d1c09c28a34cacbcc292f
+
+    04248-0015-Data.sav                 -       2,493     57      2009-08-06  dd1550eadc81fa99f97b05a38b6e4311
+
+    04248-0015-Data.stc                 -       2,493     57      2009-08-06  be8579d7c12d96642dd50699a5d605cd
+
+    04248-0015-Data.tsv                 -       2,493     57      2009-08-06  1cfdcb90ff66077165164de1162e28c8
+
+    04248-0015-Data.txt                 562     2,493     57      2009-08-06  be1cea7bb758d6e82aa94052458f5740
+
+    04248-0015-Setup.dct                -       -         -       2009-08-06  4d27ccf6e51193172639395baffe99f8
+
+    04248-0015-Setup.do                 -       -         -       2009-08-06  9095ddef8a39d6ef735aa54bf05f311b
+
+    04248-0015-Setup.sas                -       -         -       2009-08-06  bde0a6f7ff35454f9a65bc5886f0f922
+
+    04248-0015-Setup.sps                -       -         -       2009-08-06  9d05f743c1822088383c2cf5c202fc24
+
+
+DS0016 Form 611a  AN3 AVLT
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0016-Codebook.pdf             -       -         -       2009-08-06  b2187f8fdf2462dac149a49d084b2111
+
+    04248-0016-Data.dta                 -       1,839     107     2009-08-06  185ec895fe57e5e760e07ea267e824e8
+
+    04248-0016-Data.sav                 -       1,839     107     2009-08-06  626fa337878eda5e8bad9398cda3cf2b
+
+    04248-0016-Data.stc                 -       1,839     107     2009-08-06  a03a8dcb80bdf6c12505591a2db3c0fc
+
+    04248-0016-Data.tsv                 -       1,839     107     2009-08-06  5c6d33353c9961cdc670c14d2b177365
+
+    04248-0016-Data.txt                 958     1,839     107     2009-08-06  9d90f30abad47cd1e244d00866d04f1e
+
+    04248-0016-Documentation-A3Group_MULTI.pdf -       -         -       2009-08-06  b8694a0d2de09ca08fb6a02c80cc9c42
+
+    04248-0016-Documentation-A3gGroup_MULTI.pdf -       -         -       2009-08-06  b09155ec61ca1e1b0f6034007d4481d5
+
+    04248-0016-Documentation-AVLT_MULTI.pdf -       -         -       2009-08-06  ffbd35e5b08a4a2522b0a11ffcf3935b
+
+    04248-0016-Setup.dct                -       -         -       2009-08-06  6478a460cb30c7e218451e18ed9c5aca
+
+    04248-0016-Setup.do                 -       -         -       2009-08-06  41de2cb3735332071dec3c062a736b83
+
+    04248-0016-Setup.sas                -       -         -       2009-08-06  2aa2e53f7ce5e10f4e2e17fb1dcc091d
+
+    04248-0016-Setup.sps                -       -         -       2009-08-06  2e0aab0fcd86545401b40da8c6bedbdd
+
+
+DS0017 Form 611b AN5 AVLT
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0017-Codebook.pdf             -       -         -       2009-08-06  20175f00ad615906a89fc128a7b582e9
+
+    04248-0017-Data.dta                 -       1,557     107     2009-08-06  48059bb9b30a2e444f695dc6ce2f38b7
+
+    04248-0017-Data.sav                 -       1,557     107     2009-08-06  af5e3060cdb6b9cb8c7f8fd7d23847b8
+
+    04248-0017-Data.stc                 -       1,557     107     2009-08-06  5e89f556f8911d4bf9b2ae82e4378860
+
+    04248-0017-Data.tsv                 -       1,557     107     2009-08-06  e3e08c4ef1e0de0d2f7aebad57e76387
+
+    04248-0017-Data.txt                 958     1,557     107     2009-08-06  5c078767c7a1556dfd1ad83f29b429df
+
+    04248-0017-Documentation-A5Group_MULTI.pdf -       -         -       2009-08-06  599806c60bd39f4710716d77e745c595
+
+    04248-0017-Documentation-AVLT_MULTI.pdf -       -         -       2009-08-06  ffbd35e5b08a4a2522b0a11ffcf3935b
+
+    04248-0017-Setup.dct                -       -         -       2009-08-06  a6f4150bc6eca6657e6b76d2fb0f7a83
+
+    04248-0017-Setup.do                 -       -         -       2009-08-06  eed6d8deb0ffd20d42cd921a99d16e1c
+
+    04248-0017-Setup.sas                -       -         -       2009-08-06  67bb8bc15111cb7f31e5a2a4c7b92b5d
+
+    04248-0017-Setup.sps                -       -         -       2009-08-06  868ee39f09eba2128ce5b3946b32044c
+
+
+DS0018 Form 611c AN1 AVLT
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0018-Codebook.pdf             -       -         -       2009-08-06  f461616e2ec0ab69ce1d2220b37d73d7
+
+    04248-0018-Data.dta                 -       2,073     107     2009-08-06  ddc45452c62184d45080bd14b4f24743
+
+    04248-0018-Data.sav                 -       2,073     107     2009-08-06  b23ae0058b6be15a7f5b814232303c72
+
+    04248-0018-Data.stc                 -       2,073     107     2009-08-06  b38a33e77f7918f19883065edd5e73f7
+
+    04248-0018-Data.tsv                 -       2,073     107     2009-08-06  63f6363c888a6a5720b8da59dcc1898e
+
+    04248-0018-Data.txt                 1062    2,073     107     2009-08-06  0a7fcd67ab31776c33e5566e7cc8a8bf
+
+    04248-0018-Documentation-AVLT_MULTI.pdf -       -         -       2009-08-06  ffbd35e5b08a4a2522b0a11ffcf3935b
+
+    04248-0018-Setup.dct                -       -         -       2009-08-06  01a35be5736bd44999ea70cfd6c407bc
+
+    04248-0018-Setup.do                 -       -         -       2009-08-06  3798c808d4b5f1deb305e0c7497e0b65
+
+    04248-0018-Setup.sas                -       -         -       2009-08-06  bb9dafa0c3fe4e632223ac78ac3c0463
+
+    04248-0018-Setup.sps                -       -         -       2009-08-06  74f810f6b36645aba8795651795db478
+
+
+DS0019 Form 611d AN2 AVLT
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0019-Codebook.pdf             -       -         -       2009-08-06  a835c2e9cfb4c69e7af1ee96c6a63e9b
+
+    04248-0019-Data.dta                 -       1,965     107     2009-08-06  e27e4e310b5f5c6e11ba256f20299ba8
+
+    04248-0019-Data.sav                 -       1,965     107     2009-08-06  2d228ee097116c3dd3ef5a59b9188831
+
+    04248-0019-Data.stc                 -       1,965     107     2009-08-06  bef3a0c8160cdd8de024af776adee333
+
+    04248-0019-Data.tsv                 -       1,965     107     2009-08-06  dcb29aa06c40e5119e84e7e54f409e56
+
+    04248-0019-Data.txt                 1062    1,965     107     2009-08-06  f769cd11beebfaa088b21859e40e7cff
+
+    04248-0019-Documentation-AVLT_MULTI.pdf -       -         -       2009-08-06  ffbd35e5b08a4a2522b0a11ffcf3935b
+
+    04248-0019-Setup.dct                -       -         -       2009-08-06  6adc78098f1b74104e28fdb5b97dfb8b
+
+    04248-0019-Setup.do                 -       -         -       2009-08-06  f7d66ac3f5e075560489f02a59a92515
+
+    04248-0019-Setup.sas                -       -         -       2009-08-06  f3fbc5d0dc9ad129556d47ce929c2df3
+
+    04248-0019-Setup.sps                -       -         -       2009-08-06  7d90f233666330c88ae369180986b0d4
+
+
+DS0020 Form 612 Letter Series
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0020-Codebook.pdf             -       -         -       2009-08-06  e7b2c6c9e74e3235a2b9275d49d0257e
+
+    04248-0020-Data.dta                 -       3,401     32      2009-08-06  af5ed72fb041e038aa8fafbb222457da
+
+    04248-0020-Data.sav                 -       3,401     32      2009-08-06  c33011758e85953c5a2c6bac6c0a31dd
+
+    04248-0020-Data.stc                 -       3,401     32      2009-08-06  1f11cef7149a21123d9f028f77c383aa
+
+    04248-0020-Data.tsv                 -       3,401     32      2009-08-06  d5ce0dd5e4d8768c5ba0e0cb78ebb26f
+
+    04248-0020-Data.txt                 283     3,401     32      2009-08-06  d0bff64f7c4101320e64de0b72c25664
+
+    04248-0020-Setup.dct                -       -         -       2009-08-06  20f24e6d46df2c04a35eee418fbb3542
+
+    04248-0020-Setup.do                 -       -         -       2009-08-06  b324f5ea8c73287625fdf89e15093d34
+
+    04248-0020-Setup.sas                -       -         -       2009-08-06  207d857bc1f1a58dc94b3f4424ede51d
+
+    04248-0020-Setup.sps                -       -         -       2009-08-06  9a20310af84c1832449da8e45a5bf5c5
+
+
+DS0021 Form 613 AVLT Recognition
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0021-Codebook.pdf             -       -         -       2009-08-06  dc91a80429bcd6ddbb2501b61ee8bfea
+
+    04248-0021-Data.dta                 -       3,392     52      2009-08-06  90b1e370bbd8ee89ffa6647070e2e778
+
+    04248-0021-Data.sav                 -       3,392     52      2009-08-06  846b4f5bd7ef156b8755a623b3a2b16e
+
+    04248-0021-Data.stc                 -       3,392     52      2009-08-06  e42f4bdc9e00f18b1ba0b90a5b558f80
+
+    04248-0021-Data.tsv                 -       3,392     52      2009-08-06  a475fbdc6b258abd3351dcc7b9feaabe
+
+    04248-0021-Data.txt                 113     3,392     52      2009-08-06  dadda91d5aa65cf7138806c2633eea28
+
+    04248-0021-Setup.dct                -       -         -       2009-08-06  d583046371382105c3417e2e2380b38b
+
+    04248-0021-Setup.do                 -       -         -       2009-08-06  5828f8203db003ac202809ff7b17b6c3
+
+    04248-0021-Setup.sas                -       -         -       2009-08-06  0d25e2439300ac14d5c8b95a0baaaad1
+
+    04248-0021-Setup.sps                -       -         -       2009-08-06  29291b3db6feaad7a6188fd0c22630f9
+
+
+DS0022 Form 614 Letter Series
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0022-Codebook.pdf             -       -         -       2009-08-06  cbf139d0c2ecc71e6d5e8367e130016c
+
+    04248-0022-Data.dta                 -       3,370     17      2009-08-06  d0c26c1b38479f968b69a78069e45030
+
+    04248-0022-Data.sav                 -       3,370     17      2009-08-06  bea4ae084f28915b6acb8860bb06ef58
+
+    04248-0022-Data.stc                 -       3,370     17      2009-08-06  4235906b631512a031b0b3ee57c8f81a
+
+    04248-0022-Data.tsv                 -       3,370     17      2009-08-06  9de3c626aa6915290b3c50f8a6738fc3
+
+    04248-0022-Data.txt                 148     3,370     17      2009-08-06  91a88c3e87f233fc7641cbb90144992c
+
+    04248-0022-Setup.dct                -       -         -       2009-08-06  78d399cde21424916b640e81099d95a4
+
+    04248-0022-Setup.do                 -       -         -       2009-08-06  fc99ed654786d1432014fb05b4ecf35b
+
+    04248-0022-Setup.sas                -       -         -       2009-08-06  1fc3cbdd3b61682cda7357589db45a13
+
+    04248-0022-Setup.sps                -       -         -       2009-08-06  5039ef1112e5c79a920e3b405e832e90
+
+
+DS0023 Form 615a  AN3 Rivermead
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0023-Codebook.pdf             -       -         -       2009-08-06  1fc49adf0da1c023aa56139834c6e340
+
+    04248-0023-Data.dta                 -       1,826     6       2009-08-06  d778b6ef9294ff7868259e5ca92bcc38
+
+    04248-0023-Data.sav                 -       1,826     6       2009-08-06  a2d88e5cc7e1cd2fd99c59589cabef0c
+
+    04248-0023-Data.stc                 -       1,826     6       2009-08-06  80e805c43028ba5b3083b27aefaf8822
+
+    04248-0023-Data.tsv                 -       1,826     6       2009-08-06  4011829a87d38beb99344d3438db2858
+
+    04248-0023-Data.txt                 49      1,826     6       2009-08-06  acfe6b48712169832d86043076dcdf1c
+
+    04248-0023-Documentation-A3Group_MULTI.pdf -       -         -       2009-08-06  b8694a0d2de09ca08fb6a02c80cc9c42
+
+    04248-0023-Documentation-A3gGroup_MULTI.pdf -       -         -       2009-08-06  b09155ec61ca1e1b0f6034007d4481d5
+
+    04248-0023-Setup.dct                -       -         -       2009-08-06  87c40c4705a150aad06c38791dae5792
+
+    04248-0023-Setup.do                 -       -         -       2009-08-06  bccad54c78c65d61113950d0c7ca0963
+
+    04248-0023-Setup.sas                -       -         -       2009-08-06  77319a40ff6af8f6dbb5135484980b28
+
+    04248-0023-Setup.sps                -       -         -       2009-08-06  c680a5bd320bc47a74b39138bcee4220
+
+
+DS0024 Form 615b  AN5 Rivermead
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0024-Codebook.pdf             -       -         -       2009-08-06  fd87c2a7c6c2d4d1087a5b1916fbc707
+
+    04248-0024-Data.dta                 -       1,561     6       2009-08-06  7e3b588c6ec5c1ce339cda101512acb7
+
+    04248-0024-Data.sav                 -       1,561     6       2009-08-06  417cb7f67ba65d9862aaa4840703e372
+
+    04248-0024-Data.stc                 -       1,561     6       2009-08-06  0ea60ab4d4d5faf7c3c0a41e628f86c1
+
+    04248-0024-Data.tsv                 -       1,561     6       2009-08-06  a620bd5b2ddbbe0c520036b58e0d670e
+
+    04248-0024-Data.txt                 49      1,561     6       2009-08-06  5af12a915e809ece9e85a8aeac75bbe4
+
+    04248-0024-Documentation-A5Group_MULTI.pdf -       -         -       2009-08-06  599806c60bd39f4710716d77e745c595
+
+    04248-0024-Setup.dct                -       -         -       2009-08-06  fc090b477d382bbf1db77ce1800dc269
+
+    04248-0024-Setup.do                 -       -         -       2009-08-06  3bec4e985010212416c9e9f92283d914
+
+    04248-0024-Setup.sas                -       -         -       2009-08-06  2d8ed9909c96cb1241cadb7a584375b0
+
+    04248-0024-Setup.sps                -       -         -       2009-08-06  6827ed4c517e648018d7ccb186e3ddb2
+
+
+DS0025 Form 616 Vocabulary
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0025-Codebook.pdf             -       -         -       2009-08-06  77c7ea746682d8010b5cbaa207ce4379
+
+    04248-0025-Data.dta                 -       3,391     20      2009-08-06  92af1645615795a2c6e45f02c30f9509
+
+    04248-0025-Data.sav                 -       3,391     20      2009-08-06  19daf2b66c67fa9b0c168cd8f7900a8d
+
+    04248-0025-Data.stc                 -       3,391     20      2009-08-06  cac1be8dc0a65afbec3c83804ff21bf9
+
+    04248-0025-Data.tsv                 -       3,391     20      2009-08-06  ac09d5f620b668e242d2fe1b425f1bdc
+
+    04248-0025-Data.txt                 175     3,391     20      2009-08-06  c18005029a29f1534499d11ecc6fa6d7
+
+    04248-0025-Documentation-A3Group_MULTI.pdf -       -         -       2009-08-06  b8694a0d2de09ca08fb6a02c80cc9c42
+
+    04248-0025-Documentation-A3gGroup_MULTI.pdf -       -         -       2009-08-06  b09155ec61ca1e1b0f6034007d4481d5
+
+    04248-0025-Documentation-A5Battery_MULTI.pdf -       -         -       2009-08-06  bbb2ac4864b1a37f8062ade1d146c80c
+
+    04248-0025-Setup.dct                -       -         -       2009-08-06  07ecf54ba7651286d9a160c120617d99
+
+    04248-0025-Setup.do                 -       -         -       2009-08-06  717ae004ccfa4ca75c4166de1d3589e9
+
+    04248-0025-Setup.sas                -       -         -       2009-08-06  c48eb4a228f8386a40920828da2ed7c1
+
+    04248-0025-Setup.sps                -       -         -       2009-08-06  1cf79a14beff32f2cbe80cb44718952a
+
+
+DS0026 Form 617 EPT
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0026-Codebook.pdf             -       -         -       2009-08-06  4398a0e2d3989efa21806b81addf28a2
+
+    04248-0026-Data.dta                 -       3,389     31      2009-08-06  cec912b492036aa20e3ed3e746c0b559
+
+    04248-0026-Data.sav                 -       3,389     31      2009-08-06  fb1e145c2c1026e161c6cad985352484
+
+    04248-0026-Data.stc                 -       3,389     31      2009-08-06  51b07fdd6ba1438ff965d4bfa935a750
+
+    04248-0026-Data.tsv                 -       3,389     31      2009-08-06  717622a6dcc791c7eff1c30e14b83521
+
+    04248-0026-Data.txt                 274     3,389     31      2009-08-06  c9f7f1a6915d0d7738688ed1f7bfba11
+
+    04248-0026-Documentation-A3Group_MULTI.pdf -       -         -       2009-08-06  b8694a0d2de09ca08fb6a02c80cc9c42
+
+    04248-0026-Documentation-A3gGroup_MULTI.pdf -       -         -       2009-08-06  b09155ec61ca1e1b0f6034007d4481d5
+
+    04248-0026-Documentation-A5Group_MULTI.pdf -       -         -       2009-08-06  599806c60bd39f4710716d77e745c595
+
+    04248-0026-Documentation-EPT_MULTI.pdf -       -         -       2009-08-06  3f49b15c2edd4ea5b8ac51aae3d5327b
+
+    04248-0026-Documentation-OTDL_MULTI.pdf -       -         -       2009-08-06  18e64a4856e45b7ed6127f42fac88b35
+
+    04248-0026-Setup.dct                -       -         -       2009-08-06  a0bde76e6bcbf6e59131f63ca9017ec3
+
+    04248-0026-Setup.do                 -       -         -       2009-08-06  4fec5f53f96e7ba9c9b93bbfa9cf2b09
+
+    04248-0026-Setup.sas                -       -         -       2009-08-06  548f71c783b942de12c260306631c6fe
+
+    04248-0026-Setup.sps                -       -         -       2009-08-06  763cf141c2d9b36e193281dcd0c819e2
+
+
+DS0027 Form 618 Medication Audit
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0027-Codebook.pdf             -       -         -       2009-08-06  dd6a0c3fb358ac06406dc76cfedc0cf3
+
+    04248-0027-Data.dta                 -       5,156     38      2009-08-06  8ce9cbf6e5a78644556b7d3a886ad144
+
+    04248-0027-Data.sav                 -       5,156     38      2009-08-06  1df2c6c14cd98bb9b63a034887442e34
+
+    04248-0027-Data.stc                 -       5,156     38      2009-08-06  d183b6678624a9b6db42d2a1fc066fb3
+
+    04248-0027-Data.tsv                 -       5,156     38      2009-08-06  4a65c9b64599f17363497d85ace348ed
+
+    04248-0027-Data.txt                 372     5,156     38      2009-08-06  05e3c5404de1550aae653c6a1edb3ce7
+
+    04248-0027-Documentation-A3Group_MULTI.pdf -       -         -       2009-08-06  b8694a0d2de09ca08fb6a02c80cc9c42
+
+    04248-0027-Documentation-A3gGroup_MULTI.pdf -       -         -       2009-08-06  b09155ec61ca1e1b0f6034007d4481d5
+
+    04248-0027-Documentation-A5Group_MULTI.pdf -       -         -       2009-08-06  599806c60bd39f4710716d77e745c595
+
+    04248-0027-Documentation-EPT_MULTI.pdf -       -         -       2009-08-06  3f49b15c2edd4ea5b8ac51aae3d5327b
+
+    04248-0027-Setup.dct                -       -         -       2009-08-06  42b5306e8c4007718499471212a72516
+
+    04248-0027-Setup.do                 -       -         -       2009-08-06  54a30a03f02cf848ce212fbc25f75332
+
+    04248-0027-Setup.sas                -       -         -       2009-08-06  80ce0da3584e22830900f5e229d656a1
+
+    04248-0027-Setup.sps                -       -         -       2009-08-06  3bd3faccffbbc3af7839ecdf8431aa3b
+
+
+DS0028 Form 619 AVLT Intrusion/Perseveration Errors
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0028-Codebook.pdf             -       -         -       2009-08-06  8578bd10b5af53d02f05840b10b8d197
+
+    04248-0028-Data.dta                 -       3,394     16      2009-08-06  b2baa03b3281e0286c55edd1fab15ddc
+
+    04248-0028-Data.sav                 -       3,394     16      2009-08-06  b6a2332ab05fa5878f2fb6395be5c1f6
+
+    04248-0028-Data.stc                 -       3,394     16      2009-08-06  f7ee63af655e78f45f9e779e46b28375
+
+    04248-0028-Data.tsv                 -       3,394     16      2009-08-06  a9746d840662ab50890db6212499c684
+
+    04248-0028-Data.txt                 139     3,394     16      2009-08-06  19e9191db826b996accfcb97be82b239
+
+    04248-0028-Setup.dct                -       -         -       2009-08-06  1207872b31b090c6231d797b7732c8a0
+
+    04248-0028-Setup.do                 -       -         -       2009-08-06  521dff43209c7e9697ac05b3d40260d1
+
+    04248-0028-Setup.sas                -       -         -       2009-08-06  e1acd5981a089b754a4b59b5eadc87c5
+
+    04248-0028-Setup.sps                -       -         -       2009-08-06  d4689877af5d6d106edff9938941358c
+
+
+DS0029 Form 700 AN1 Abbreviated Battery
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0029-Codebook.pdf             -       -         -       2009-08-06  50a28f92a9ac5cd831eb41799817f8a7
+
+    04248-0029-Data.dta                 -       199       265     2009-08-06  ca51a072eebd13c58da8d95a864f8586
+
+    04248-0029-Data.sav                 -       199       265     2009-08-06  6ba7eaa15c61b871e55586d640ffb61f
+
+    04248-0029-Data.stc                 -       199       265     2009-08-06  36696ff9a3db02cfed3ba42bb41b11d0
+
+    04248-0029-Data.tsv                 -       199       265     2009-08-06  cde9423a31fd450571b7c29b5d67d1b7
+
+    04248-0029-Data.txt                 2642    199       265     2009-08-06  d7a60e2ada63c6520c13bb7091d76938
+
+    04248-0029-Questionnaire.pdf        -       -         -       2009-08-06  8ce49431728a162e2252bc29ddfbd522
+
+    04248-0029-Setup.dct                -       -         -       2009-08-06  2d5a3e34fc750196cdc780f60039af77
+
+    04248-0029-Setup.do                 -       -         -       2009-08-06  f31d5dcad8e4c489c613458a2f2b836d
+
+    04248-0029-Setup.sas                -       -         -       2009-08-06  917b4bd0468e1e0b9745fb9f6f6d434d
+
+    04248-0029-Setup.sps                -       -         -       2009-08-06  2b2e4fe95651d3cf8400f3d328b27ead
+
+
+DS0030 Form 705 AN2 Abbreviated Battery
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0030-Codebook.pdf             -       -         -       2009-08-06  44f555218eabdf589dc8bd68e09fc80b
+
+    04248-0030-Data.dta                 -       228       270     2009-08-06  b3ed7aac88ff42504c0f835b22ac2820
+
+    04248-0030-Data.sav                 -       228       270     2009-08-06  4261e3444bbed5ba2cfb24d892e2b773
+
+    04248-0030-Data.stc                 -       228       270     2009-08-06  8192083fef150d59b90832225bfa67a7
+
+    04248-0030-Data.tsv                 -       228       270     2009-08-06  33e48c7d77fb61d1b8dd3d3624289ba5
+
+    04248-0030-Data.txt                 2692    228       270     2009-08-06  33a78f06b21d286147b0090f5d2895a4
+
+    04248-0030-Setup.dct                -       -         -       2009-08-06  f7e4cb9ba756f421b595a077dd337385
+
+    04248-0030-Setup.do                 -       -         -       2009-08-06  83c0fb65b60a7d83573a70ed430df4e8
+
+    04248-0030-Setup.sas                -       -         -       2009-08-06  c6ee06cbefe67d79c43c6e856eb34909
+
+    04248-0030-Setup.sps                -       -         -       2009-08-06  80d597bc929c084b9886b23db1c5353b
+
+
+DS0031 Form 706a AN3 Abbreviated Battery
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0031-Codebook.pdf             -       -         -       2009-08-06  5bc79446581f79471f40ff823be00f28
+
+    04248-0031-Data.dta                 -       243       275     2009-08-06  7e7cdd9e3303cf97862999246891bc05
+
+    04248-0031-Data.sav                 -       243       275     2009-08-06  497740a66f2ee55ffe13a4a5191c0766
+
+    04248-0031-Data.stc                 -       243       275     2009-08-06  04ba18dc8dbd33767b7e192bf5e45a26
+
+    04248-0031-Data.tsv                 -       243       275     2009-08-06  0dde0ff3cb7e9db2d47048e7134ab729
+
+    04248-0031-Data.txt                 2462    243       275     2009-08-06  f7cf6e0f7d94453edc076d364d436247
+
+    04248-0031-Documentation-A3Battery_MULTI.pdf -       -         -       2009-08-06  cf2d4ee5c6b4d935e639ec43d664e8cd
+
+    04248-0031-Documentation-A3IndivP1_MULTI.pdf -       -         -       2009-08-06  36bcf51eb9a5aaaf4ce41210a538c3d0
+
+    04248-0031-Setup.dct                -       -         -       2009-08-06  b5b9858076e742535c850d01e81279de
+
+    04248-0031-Setup.do                 -       -         -       2009-08-06  9e9a4839272a160066678e149a4cee0a
+
+    04248-0031-Setup.sas                -       -         -       2009-08-06  c50ce1a7b91c61249882bb35bff8af75
+
+    04248-0031-Setup.sps                -       -         -       2009-08-06  df2b682fe267374964db72b764f667fb
+
+
+DS0032 Form 706b AN5 Abbreviated Battery
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0032-Codebook.pdf             -       -         -       2009-08-06  04a91268f2e93aefb0df91d554208602
+
+    04248-0032-Data.dta                 -       290       274     2009-08-06  2f7cff88c2c8c655e18d0526e05bf475
+
+    04248-0032-Data.sav                 -       290       274     2009-08-06  31f4505c6ed22ff850021fa204c1d85b
+
+    04248-0032-Data.stc                 -       290       274     2009-08-06  e37b134645a711a370176e2d265676d0
+
+    04248-0032-Data.tsv                 -       290       274     2009-08-06  3fd4fae71707c6dc6abfa44498e38779
+
+    04248-0032-Data.txt                 2453    290       274     2009-08-06  d27f3c6a9bf289e0f29279de806c312a
+
+    04248-0032-Documentation-A5Battery_MULTI.pdf -       -         -       2009-08-06  bbb2ac4864b1a37f8062ade1d146c80c
+
+    04248-0032-Setup.dct                -       -         -       2009-08-06  e6d9cfd836bc4a57700480bb77324850
+
+    04248-0032-Setup.do                 -       -         -       2009-08-06  201b03ad1d08287eb16d77d59d116557
+
+    04248-0032-Setup.sas                -       -         -       2009-08-06  7b2f897a38e8d5af5c90386ae6840d4b
+
+    04248-0032-Setup.sps                -       -         -       2009-08-06  8a9034fb1fdeaf958638db0d848ae317
+
+
+DS0033 Form 710 AN1 and AN2 Abbreviated Battery, Level 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0033-Codebook.pdf             -       -         -       2009-08-06  cb2906d349201748da4e48f89d02b179
+
+    04248-0033-Data.dta                 -       16        47      2009-08-06  9a830d1d042283f1889c27a05b5984b3
+
+    04248-0033-Data.sav                 -       16        47      2009-08-06  9c951aad66db9299c1706e6bc0e4b93f
+
+    04248-0033-Data.stc                 -       16        47      2009-08-06  673d548c1ec3a743a9f7c298118b4331
+
+    04248-0033-Data.tsv                 -       16        47      2009-08-06  37f5e49357cc46c07f3b9bbe07ea8e0d
+
+    04248-0033-Data.txt                 417     16        47      2009-08-06  9a3a9bde9fe782ae6fc87c69b97d9b17
+
+    04248-0033-Setup.dct                -       -         -       2009-08-06  34efce7492008dbeabb640cc0fb17111
+
+    04248-0033-Setup.do                 -       -         -       2009-08-06  af63912e83286718cd65b0085086d814
+
+    04248-0033-Setup.sas                -       -         -       2009-08-06  d2be707f7fbd2ee5e71dffbaab102226
+
+    04248-0033-Setup.sps                -       -         -       2009-08-06  09c9471d8a0448748f2eeab71c58b7b0
+
+
+DS0034 Form 713 AN3 Abbreviated Battery, Level 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0034-Codebook.pdf             -       -         -       2009-08-06  fb44a9aa9440f513ef0d407bf2dc8806
+
+    04248-0034-Data.dta                 -       16        57      2009-08-06  48ba999d4ca00534dac8c7b3033ac67a
+
+    04248-0034-Data.sav                 -       16        57      2009-08-06  8e49fff507638e450ca7c3d77df68847
+
+    04248-0034-Data.stc                 -       16        57      2009-08-06  6cae837fd07b4285496c0398144bbaca
+
+    04248-0034-Data.tsv                 -       16        57      2009-08-06  f85bf7b4cb8a2f4db6ddfa24edb878c7
+
+    04248-0034-Data.txt                 492     16        57      2009-08-06  d11ce7a07fe07137c42570431787568e
+
+    04248-0034-Documentation-A3Battery_MULTI.pdf -       -         -       2009-08-06  cf2d4ee5c6b4d935e639ec43d664e8cd
+
+    04248-0034-Setup.dct                -       -         -       2009-08-06  c02effb6fd3f6998af85ad500bb2e8ea
+
+    04248-0034-Setup.do                 -       -         -       2009-08-06  ac4c83a70ff81e87c1a09a48463c9474
+
+    04248-0034-Setup.sas                -       -         -       2009-08-06  649baca50e42941897569a020a0df660
+
+    04248-0034-Setup.sps                -       -         -       2009-08-06  938e645803c092fd1d059062e7080f03
+
+
+DS0035 Form 714 AN5 Abbreviated Battery, Level 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0035-Codebook.pdf             -       -         -       2009-08-06  3f2fb7abdd83c5a753513550cc4d8099
+
+    04248-0035-Data.dta                 -       3         58      2009-08-06  4b20dcae716818c5204feb83000bdb50
+
+    04248-0035-Data.sav                 -       3         58      2009-08-06  63d9743b737655562b5a540e7d3964ab
+
+    04248-0035-Data.stc                 -       3         58      2009-08-06  66501c937e0a8d8558d894355b791185
+
+    04248-0035-Data.tsv                 -       3         58      2009-08-06  eb0d3fe78968efc72d7ed1d0dd8793ab
+
+    04248-0035-Data.txt                 497     3         58      2009-08-06  218ddd7069a6fea3566825d3d89ad176
+
+    04248-0035-Setup.dct                -       -         -       2009-08-06  b5db8a4ef1046bb980dae337f6913240
+
+    04248-0035-Setup.do                 -       -         -       2009-08-06  9dad61d34d3e471c9d0977ad6dc1de7e
+
+    04248-0035-Setup.sas                -       -         -       2009-08-06  8bda02c73a702fc2a4f1cf806447129f
+
+    04248-0035-Setup.sps                -       -         -       2009-08-06  3af864d7f1a4d0c0d28711677d122553
+
+
+DS0036 Form 717 Take-Home EPT
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0036-Codebook.pdf             -       -         -       2009-08-06  26d99b257e206b173a7de0a0ddc7ea4f
+
+    04248-0036-Data.dta                 -       398       34      2009-08-06  56e56cb130b43acad7c3191d8fc103a0
+
+    04248-0036-Data.sav                 -       398       34      2009-08-06  9d136aa6bb670b88755de18bd1557daa
+
+    04248-0036-Data.stc                 -       398       34      2009-08-06  51141d17aeec038a2628d7251c3f7897
+
+    04248-0036-Data.tsv                 -       398       34      2009-08-06  663a1a1d1f5558116b6a336b580d651e
+
+    04248-0036-Data.txt                 301     398       34      2009-08-06  970846a2b49fd8f847c807a81d1da57e
+
+    04248-0036-Documentation-A3IndivP2_MULTI.pdf -       -         -       2009-08-06  d6393bca6d35ecef81027fdf2b5a0e58
+
+    04248-0036-Setup.dct                -       -         -       2009-08-06  49979b17b0c571144f34706f259e6082
+
+    04248-0036-Setup.do                 -       -         -       2009-08-06  3c13db170a556a8fd6a29e651e9e615c
+
+    04248-0036-Setup.sas                -       -         -       2009-08-06  cad0694372e8967e797bafb4f47be364
+
+    04248-0036-Setup.sps                -       -         -       2009-08-06  6ffa67946443883fe6a5b0920c0f237a
+
+
+DS0037 Form 800 AN2 Individual Assessment, Part 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0037-Codebook.pdf             -       -         -       2009-08-06  24bf1376c70e1043fcfbb67a64b83cd0
+
+    04248-0037-Data.dta                 -       2,005     80      2009-08-06  1d9a26211001344ed84dac376c2117f6
+
+    04248-0037-Data.sav                 -       2,005     80      2009-08-06  d9ac563ecb8d80dd93171250a994ad4c
+
+    04248-0037-Data.stc                 -       2,005     80      2009-08-06  c2e5fbbeb0d9deb22e8013c8ae2b7ac4
+
+    04248-0037-Data.tsv                 -       2,005     80      2009-08-06  eca4a48178323e2b3f07d2c8ef7e943c
+
+    04248-0037-Data.txt                 787     2,005     80      2009-08-06  c2870e59b2bc4f32b15bb1108e6c8d60
+
+    04248-0037-Documentation-A3IndivP1_MULTI.pdf -       -         -       2009-08-06  36bcf51eb9a5aaaf4ce41210a538c3d0
+
+    04248-0037-Documentation-A5IndivP1_MULTI.pdf -       -         -       2009-08-06  bbe6da3f3cd7c9f52712192eb4c24a04
+
+    04248-0037-Questionnaire.pdf        -       -         -       2009-08-06  8c2a6911e8a55c963b52b6b9262cca55
+
+    04248-0037-Setup.dct                -       -         -       2009-08-06  240a0aa6643a353accd21402cc8f45c1
+
+    04248-0037-Setup.do                 -       -         -       2009-08-06  61e6908294ddf432f74ba2bb6ecd1795
+
+    04248-0037-Setup.sas                -       -         -       2009-08-06  89d71c9572efe98ce11e03f14a8c801d
+
+    04248-0037-Setup.sps                -       -         -       2009-08-06  cb53d6f8c2c77bc2ba7c6ad95c0e8055
+
+
+DS0038 Form 803 AN3 Individual Assessment, Part 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0038-Codebook.pdf             -       -         -       2009-08-06  4373d9f340121f1588c3260724034dc9
+
+    04248-0038-Data.dta                 -       1,860     82      2009-08-06  367b402fdef29adf8d3ae1011e6e1c71
+
+    04248-0038-Data.sav                 -       1,860     82      2009-08-06  85cd8be3ae046a3d1770edae78690ea7
+
+    04248-0038-Data.stc                 -       1,860     82      2009-08-06  5825224c4455144d0d16ccdb5f0e327b
+
+    04248-0038-Data.tsv                 -       1,860     82      2009-08-06  81d8e9805638aa3941c6584a4814fc85
+
+    04248-0038-Data.txt                 729     1,860     82      2009-08-06  8fba9aef16ded6f9e7a7cbe103ab498c
+
+    04248-0038-Documentation-A5IndivP1_MULTI.pdf -       -         -       2009-08-06  bbe6da3f3cd7c9f52712192eb4c24a04
+
+    04248-0038-Setup.dct                -       -         -       2009-08-06  d6b1b8ad393a44f9c88053eec4c75bcc
+
+    04248-0038-Setup.do                 -       -         -       2009-08-06  9605eebf7276374c7f9c2397d637037c
+
+    04248-0038-Setup.sas                -       -         -       2009-08-06  9e9a48bfedbebf9cb6d4eeaa0905525e
+
+    04248-0038-Setup.sps                -       -         -       2009-08-06  2bcc1bf4fe6dbfa6cad02a7761840648
+
+
+DS0039 Form 804 AN5 Individual Assessment, Part 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0039-Codebook.pdf             -       -         -       2009-08-06  8ab5be777e83d675184694b67de0b9c0
+
+    04248-0039-Data.dta                 -       1,594     82      2009-08-06  43b4415d6d8b95e0bfaaa14e50c42f03
+
+    04248-0039-Data.sav                 -       1,594     82      2009-08-06  2d82529e22f73ea6cccf1bef74871e4e
+
+    04248-0039-Data.stc                 -       1,594     82      2009-08-06  c5187eeb56baae1e804a9d41dd34b430
+
+    04248-0039-Data.tsv                 -       1,594     82      2009-08-06  68cd7a125494d8652f7cd7401c484600
+
+    04248-0039-Data.txt                 729     1,594     82      2009-08-06  d7a43b2c3224b3fedda34508ca03e3ec
+
+    04248-0039-Documentation-A5IndivP1_MULTI.pdf -       -         -       2009-08-06  bbe6da3f3cd7c9f52712192eb4c24a04
+
+    04248-0039-Setup.dct                -       -         -       2009-08-06  ea96311af925d8b4e72c5118ba933b34
+
+    04248-0039-Setup.do                 -       -         -       2009-08-06  5699ba753ef069ea0830634cf82dc8b3
+
+    04248-0039-Setup.sas                -       -         -       2009-08-06  3383b0714611f4971f5ee7b0dcd7bb04
+
+    04248-0039-Setup.sps                -       -         -       2009-08-06  8d2dda9c6151c23bbaaf26fb812c1ade
+
+
+DS0040 Form 810 AN2 Individual Assessment, Part 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0040-Codebook.pdf             -       -         -       2009-08-06  62f831e08bf3f7b173a23222dfbe4233
+
+    04248-0040-Data.dta                 -       1,972     269     2009-08-06  adf15dbdfb021ddff1220b5c1bd54903
+
+    04248-0040-Data.sav                 -       1,972     269     2009-08-06  1ab81eac9fcb82a949fa045b9ec5a33e
+
+    04248-0040-Data.stc                 -       1,972     269     2009-08-06  3878afb7b6a1297ec7224c7d5b4f1616
+
+    04248-0040-Data.tsv                 -       1,972     269     2009-08-06  5a623d34b2e28bf20f0ea0b34e66a999
+
+    04248-0040-Data.txt                 2638    1,972     269     2009-08-06  66d5ed13c3c462e0d372bd77cd718b2e
+
+    04248-0040-Documentation-A5IndivP2_MULTI.pdf -       -         -       2009-08-06  b581701ade3393fdb652cc0ff2a7614a
+
+    04248-0040-Questionnaire.pdf        -       -         -       2009-08-06  5626301f1f401ec4974fd94023040ad9
+
+    04248-0040-Setup.dct                -       -         -       2009-08-06  683e631e2fc2515992bf0eeab514c2f1
+
+    04248-0040-Setup.do                 -       -         -       2009-08-06  be9a94710c658e47b7662d14bf59d207
+
+    04248-0040-Setup.sas                -       -         -       2009-08-06  491dfea75081c44900d3134cea7a2639
+
+    04248-0040-Setup.sps                -       -         -       2009-08-06  a6ecd523b240a6105c76fc5aa78115b6
+
+
+DS0041 Form 813 AN3 Individual Assessment, Part 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0041-Codebook.pdf             -       -         -       2009-08-06  7641d3fa451592fc456ab176e566a3b9
+
+    04248-0041-Data.dta                 -       1,839     269     2009-08-06  a149c9925f62fead0119b43c880c6286
+
+    04248-0041-Data.sav                 -       1,839     269     2009-08-06  06a3789ce81580b488c028fcc177b49f
+
+    04248-0041-Data.stc                 -       1,839     269     2009-08-06  2f500f1b5aff188f5ef3e6690e938818
+
+    04248-0041-Data.tsv                 -       1,839     269     2009-08-06  49733da13b6ec28732aa7f380dc420cc
+
+    04248-0041-Data.txt                 2402    1,839     269     2009-08-06  e5097eebe1531c6f36878aede62de00a
+
+    04248-0041-Documentation-A3IndivP2_MULTI.pdf -       -         -       2009-08-06  d6393bca6d35ecef81027fdf2b5a0e58
+
+    04248-0041-Documentation-A5IndivP2_MULTI.pdf -       -         -       2009-08-06  b581701ade3393fdb652cc0ff2a7614a
+
+    04248-0041-Setup.dct                -       -         -       2009-08-06  99c1970af3e7cd082c446e75a573fc6b
+
+    04248-0041-Setup.do                 -       -         -       2009-08-06  64683a8840d099ed46683949f10066c5
+
+    04248-0041-Setup.sas                -       -         -       2009-08-06  064c1900e89375ca73fc93fa78fbb5e8
+
+    04248-0041-Setup.sps                -       -         -       2009-08-06  21d0b21a2c0dcd9bbdde0b740e19c6c9
+
+
+DS0042 Form 814 AN5 Individual Assessment, Part 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0042-Codebook.pdf             -       -         -       2009-08-06  6d58667bc0946a810b58e3e1bc9ab7a7
+
+    04248-0042-Data.dta                 -       1,567     268     2009-08-06  4245b55dfe0efb8813759b7d3ed93dce
+
+    04248-0042-Data.sav                 -       1,567     268     2009-08-06  ab10c4815ed931e1d6ada2aa24762034
+
+    04248-0042-Data.stc                 -       1,567     268     2009-08-06  78c47fba748d3cba5b03cb96ee216d3a
+
+    04248-0042-Data.tsv                 -       1,567     268     2009-08-06  b4cd2aa8ed8ad516605a1d48e76332e6
+
+    04248-0042-Data.txt                 2401    1,567     268     2009-08-06  a8e7e50eba33b5945a33b8d9bad5953d
+
+    04248-0042-Documentation-A5IndivP2_MULTI.pdf -       -         -       2009-08-06  b581701ade3393fdb652cc0ff2a7614a
+
+    04248-0042-Setup.dct                -       -         -       2009-08-06  d8f87a3655c03daf0df55fef7f04811f
+
+    04248-0042-Setup.do                 -       -         -       2009-08-06  64115ed687dacbdaa003c5616ac48a7d
+
+    04248-0042-Setup.sas                -       -         -       2009-08-06  dbf42e255189403662b3bafdcb91ec92
+
+    04248-0042-Setup.sps                -       -         -       2009-08-06  51bd282512a763e03d856e0ef4389738
+
+
+DS0043 Analysis Dataset
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04248-0043-Data.dta                 -       2,802     139     2010-06-30  726add9f730ea88a390001f203dd6f30
+
+    04248-0043-Data.sav                 -       2,802     139     2010-06-30  c5d7ef1407540ae56ee7985fc52faa45
+
+    04248-0043-Data.stc                 -       2,802     139     2010-06-30  d976d6a5509428b6c2f2a3dd216fafb8
+
+    04248-0043-Data.tsv                 -       2,802     139     2010-06-30  241a085f31e441fe4c4a59789916d6cd
+
+    04248-0043-Data.txt                 1251    2,802     139     2010-06-30  c0d9e28f9429ee618c7983d29ead89ff
+
+    04248-0043-Setup.dct                -       -         -       2010-06-30  ec735a34b43dbc1421fb339703fcde15
+
+    04248-0043-Setup.do                 -       -         -       2010-06-30  7ad8f8135e4f184c0b4d25ae518c0d12
+
+    04248-0043-Setup.sas                -       -         -       2010-06-30  9b8269f066aaa1e0490f433402022ccc
+
+    04248-0043-Setup.sps                -       -         -       2010-06-30  8ad479133d70d5525cc0e4126850f1aa
+
+
+Version History
+
+2010-06-30 Part 43, Analysis Dataset, has been updated.  2009-08-06 This is
+the update of the previously archived ACTIVE study, Limited Access from
+Baseline to Second Annual. The current submission is for Third Annual and
+Fifth Annual assessments. New datasets include: Forms 706a, 706b, 713, 714,
+803, 804, 813, and 814. The following datasets have been updated and
+include Annual 3 and 5 data: Forms 5, 310, 311, 312, 313, 314, 411, 422,
+611a, 611b, 612, 613, 614, 615a, 615b, 616, 617, 619, and 717. The Analysis
+dataset (analydat) has data from baseline to Annual 5.  2008-09-29 New
+datasets added are Forms 5, 411, 510, 616, 618 and 619. Updated datasets
+are Forms 2, 4, 700, 705 and 610.  2006-05-02 Additional Principal
+Investigators were added. No other changes were made.
