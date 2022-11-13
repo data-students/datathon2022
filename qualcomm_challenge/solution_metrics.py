@@ -12,12 +12,13 @@ Call the script using
 """
 
 import collections
+import statistics
 import sys
 import traceback
 
 Point = collections.namedtuple("Point", ["x", "y"])
 
-Pin = collections.namedtuple("Pin", ["name", "loc"])
+Pin = collections.namedtuple("Pin", ["name", "loc", "visited"])
 
 
 # ---------------------------------------------------------------------------------------------------------------------
@@ -66,14 +67,14 @@ def extract_pins(input_file):
                 continue
             if ongoing_driver == 1:
                 p = Point(*[int(s) for s in line.split() if s.isdigit()])
-                driver_pins.append(Pin(driver_name, p))
+                driver_pins.append(Pin(driver_name, p, False))
                 ongoing_driver -= 1
 
             # Extract pins:
             if "im_psyched" in line:
                 sp = line.split()
                 p = Point(*[int(s) for s in sp if s.isdigit()])
-                pins_to_route.append(Pin(sp[0], p))
+                pins_to_route.append(Pin(sp[0], p, False))
 
     return driver_pins, pins_to_route
 
@@ -157,6 +158,8 @@ def extract_chains(links, pins_index):
 
         while not pin_is_output_driver(next_pin):
             next_pin = pins_index[links[next_pin.name]]
+            if next_pin.visited:
+                raise Exception("Loop detected in a chain. Pins should be routed only once.")
             chain.append(next_pin)
 
         chains.append(chain)
@@ -280,12 +283,22 @@ def measure_chain_length(chain):
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-if __name__ == "__main__":
+def solution_metrics(input_file, output_file):
+    """Extract metrics from the provided output file based on the input file.
+
+    Args:
+        input_file {str} -- The name of the input file used in the problem.
+        output_file {str} -- The name of the provided output file.
+
+    Return:
+        (float, float, float) -- The average chain length, the std deviation, and the difference
+        between the longest and the shortest chain.
+    """
     # Parse input and output files:
-    driver_pins, pins_to_route = extract_pins(sys.argv[1])
+    driver_pins, pins_to_route = extract_pins(input_file)
 
     try:
-        links = extract_links(sys.argv[2])
+        links = extract_links(output_file)
         print("Output file formatted properly: check")
     except Exception as e:
         print(
@@ -334,3 +347,11 @@ if __name__ == "__main__":
         lengths.append(measure_chain_length(chain))
         print(f" - Chain {i} - Length = {lengths[-1]}")
     print(f"Average length = {sum(lengths)/len(lengths)}")
+    print(f"Standard deviation = {statistics.stdev(lengths)}")
+    print(f"Difference max-min = {max(lengths) - min(lengths)}")
+
+    return sum(lengths) / len(lengths), statistics.stdev(lengths), max(lengths) - min(lengths)
+
+
+if __name__ == "__main__":
+    solution_metrics(sys.argv[1], sys.argv[2])
