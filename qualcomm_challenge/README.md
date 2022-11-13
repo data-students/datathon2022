@@ -1,3 +1,8 @@
+**Update**: new testcases and a script to compute the average chain length added! To run the script: 
+```
+python3 solution_metrics.py [input_file] [output_file]
+```
+
 # One driver to rule them all 
 
 To create a chip, we need to deliver the power everywhere. In order to do so, a lot of power switches are placed all over the design. They all have to be connected and routed together in a chain. The faster you turn these power switches on and off, the less power you use.
